@@ -272,6 +272,7 @@ data class Word(val word: String) {
 
             Pair('z', 'g'),
 
+            //picture, teach
         )
 
         val charSets: List<Pair<Char, Char>> = when(level) {
@@ -333,17 +334,19 @@ data class Word(val word: String) {
                     var match = false
 
                     for (startIndex in i.toList().indices) {
-                        Log.d("HWO", "i indis --> $startIndex")
+                        Log.d("HWO", "i indis --> $startIndex ---- $i")
                         if (!match) {
                             var lastMatchedIndex = startIndex
 
                             var matchCnt = 0
                             i.forEachIndexed { inputIndex, char ->
+                                Log.d("HWO", "====== i change -> $startIndex ---- $inputIndex")
                                 if (startIndex > inputIndex) return@forEachIndexed
 
-                                Log.d("HWO", "char state -> $char")
+                                Log.d("HWO", "char state -> $char ---- $a")
                                 val matchedIndex = a.indexOf(char, lastMatchedIndex)
 
+                                Log.d("HWO", "match index -> $matchedIndex")
 
                                 if (matchedIndex != -1)  {
                                     lastMatchedIndex = matchedIndex
