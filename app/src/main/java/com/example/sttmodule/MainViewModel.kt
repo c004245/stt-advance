@@ -30,6 +30,7 @@ class MainViewModel @Inject constructor(): ViewModel() {
                 .responseChannel
                 .consumeAsFlow()
                 .collect {
+                    Log.d("HWO", "FINIA")
                     if (!isCleared.get()) {
                         Log.d("HWO", "Resullt data -> ${it.finalizedWordCount} ---- ${it.recognizedWordCount}")
                     }

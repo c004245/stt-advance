@@ -373,6 +373,10 @@ object RecognitionProgress {
 
 
 class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
+    var isCurrent = false
+    var successCnt = 0
+    var failCnt = 0
+
     private val answerCnt = answer.splitAsWords().size
     private val answerWords: List<Word> = answer.splitAsWords()
 
@@ -459,7 +463,7 @@ class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
                             Log.d("HWO", "========== try wordMatch -> $new ---- $answer")
                             new != null && index > -1 && new.isWordMatch(
                                 answer,
-                                true,
+                                false,
                                 difficultyLevel
                             )
                         } else {
@@ -501,12 +505,23 @@ class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
 
             if (answerCnt <= correctCnt) {
                 Log.d("HWO", "정답!")
+                isCurrent = true
             } else {
                 Log.d("HWO", "틀림!")
+                isCurrent = false
             }
 
             lastRecognizedWords = inputSentence.splitAsWords()
         }
+        Log.d("HWO", "FINIA")
+        if (isCurrent) {
+            successCnt++
+        } else {
+            failCnt++
+        }
+
+
+        Log.d("HWO", "success -> $successCnt ---- $failCnt")
     }
 
 //

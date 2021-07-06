@@ -1,0 +1,6162 @@
+[
+  {
+    "answer": "One, two, three, four, five, six, seven.",
+    "transcripts": [
+      "who",
+      "to",
+      "to",
+      "2",
+      "2",
+      "23",
+      "23",
+      "two three",
+      "230",
+      "234",
+      "234",
+      "two three four five",
+      "two three four five",
+      "2 3 4 5 5 6",
+      "2 3 4 5 5 6 7",
+      "2 3 4 5 5 6",
+      "2 3 4 5 5 6 7",
+      "2 3 4 5 6 7",
+      "2 3 4 5 5 6 7",
+      "two three four five six seven",
+      "2345",
+      "2 3 4 5 5 6",
+      "CC",
+      "double thumbs",
+      "CC",
+      "stop.",
+      "double time",
+      "double thumb"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "What is for lunch today?",
+    "transcripts": [
+      "RTD map today what is it called",
+      "RTD Route today what is it called",
+      "RTD map today is get.",
+      "RTD rail today what is it called",
+      "RTD Route today is get.",
+      "what",
+      "what is",
+      "what is",
+      "what is lunch",
+      "what is lunch today",
+      "what is lunch today",
+      "where is lunch today",
+      "is lunch today",
+      "what is a lunch today",
+      "world is lunch today"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "We\u0027re going to make teams.",
+    "transcripts": [
+      "mad",
+      "Matt",
+      "Mad Men",
+      "met met",
+      "Mad Max",
+      "make",
+      "Matt McPeak",
+      "make teen",
+      "Matt make teams",
+      "Matt make teams",
+      "make teams",
+      "Matt makes team",
+      "make Steam",
+      "Matt make team",
+      "going to",
+      "going to make",
+      "going to make",
+      "going to make",
+      "it\u0027s going to make",
+      "I\u0027m going to make",
+      "going to me",
+      "going to meet"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Thank you, Mr. Farmer!",
+    "transcripts": [
+      "you",
+      "YouTube",
+      "you miss",
+      "you missed",
+      "are you mr.",
+      "are you",
+      "are you Mr Palmer",
+      "are you Mr Palmer",
+      "are you Mr farmer",
+      "Are you Mister farmer",
+      "are you Mr foamer",
+      "YouTube mr. Palmer"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let me help you.",
+    "transcripts": [
+      "me",
+      "me help",
+      "me help you",
+      "me help you help me help you",
+      "me help you help you",
+      "me help you show me help you",
+      "show me help you help me help you",
+      "give me help you help me help you"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m watching a movie.",
+    "transcripts": [
+      "among",
+      "remind",
+      "a monkey",
+      "amazing",
+      "a monkey do",
+      "amazing",
+      "a monkey",
+      "a monkey do",
+      "a monkey game",
+      "a Man game",
+      "movie",
+      "movie",
+      "sing movie",
+      "movie",
+      "watching a movie",
+      "a movie",
+      "King movie"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Sport time is over.",
+    "transcripts": [
+      "what time",
+      "what time is",
+      "what time",
+      "what time is",
+      "what time is it",
+      "what time is",
+      "time is it",
+      "what time is over",
+      "what time is open"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "This is my friend.",
+    "transcripts": [
+      "did",
+      "this",
+      "this is",
+      "this is my",
+      "this",
+      "this is",
+      "this is my",
+      "this is my dad",
+      "dis is my dad",
+      "this is my daddy",
+      "this is my dad.",
+      "this is mine.",
+      "did",
+      "this",
+      "this is",
+      "this is the",
+      "this",
+      "this is",
+      "this is the",
+      "this is the reminder",
+      "this is",
+      "this is reminder at 10",
+      "this is"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Are you all right?",
+    "transcripts": [
+      "are",
+      "are all",
+      "are are",
+      "are",
+      "are are",
+      "are",
+      "are all right",
+      "are all right all right",
+      "alright alright alright",
+      "alright alright alright",
+      "all right all right all right",
+      "are alright alright alright",
+      "are all right all right all right",
+      "alright alright"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I can\u0027t do it.",
+    "transcripts": [
+      "do",
+      "do a",
+      "do it",
+      "do",
+      "do it",
+      "I do it",
+      "doit",
+      "Duit",
+      "do do it"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s make a cake.",
+    "transcripts": [
+      "okay",
+      "all cake",
+      "all cake",
+      "cake",
+      "call cake",
+      "a cake",
+      "how cake",
+      "make a cake",
+      "make a cake",
+      "make a cake good",
+      "make a cake good job"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a bit boring.",
+    "transcripts": [
+      "slowly",
+      "Chloe",
+      "flowy",
+      "new slowly",
+      "we\u0027re slowly",
+      "big",
+      "big boy",
+      "big",
+      "Big",
+      "Pitbull",
+      "Big Bird",
+      "big bully",
+      "big",
+      "big bully",
+      "big bully gets a bit boring"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Got you! I win!",
+    "transcripts": [
+      "you",
+      "you",
+      "Yu-Gi-Oh",
+      "you really",
+      "Yu-Gi-Oh",
+      "you hiring",
+      "you boil an",
+      "you silent",
+      "you boil an",
+      "you silent",
+      "you",
+      "you silent",
+      "you",
+      "you file an",
+      "you file an Ironman",
+      "you file an",
+      "you file an Ironman Irene",
+      "you file an",
+      "you file an iron I win win",
+      "you file an",
+      "you file an iron I win win w i n",
+      "you file an Ironman I win win w i n",
+      "you file an Iron Man I win win w i n",
+      "you file an iron I win win w i n",
+      "you file an Ironman Irene Win w i n",
+      "you file an iron Irene Win w i n",
+      "let\u0027s",
+      "let\u0027s play",
+      "let\u0027s play a",
+      "let\u0027s play",
+      "let\u0027s play another"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I just need one.",
+    "transcripts": [
+      "need",
+      "need a",
+      "need",
+      "need one",
+      "need one",
+      "I need one",
+      "need 1",
+      "need ones",
+      "I need 1",
+      "great work"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Follow the map.",
+    "transcripts": [
+      "do",
+      "go",
+      "go",
+      "the",
+      "go",
+      "the man",
+      "GO Math",
+      "the map",
+      "the map",
+      "GO Math",
+      "the map",
+      "the Mack",
+      "the mask",
+      "go map"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "in the fridge",
+    "transcripts": [
+      "Ian love green",
+      "you know Greek",
+      "you know Greek",
+      "you know Greek",
+      "Ian love Greek",
+      "in the Greek",
+      "Ian\u0027s love Greek",
+      "in love Greek",
+      "each",
+      "H inch",
+      "each each",
+      "H inch",
+      "each each",
+      "H inch h",
+      "H inch h g",
+      "H inch h",
+      "H inch h"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "under the table",
+    "transcripts": [
+      "timer",
+      "table",
+      "table",
+      "table",
+      "Tamil",
+      "camel",
+      "cable",
+      "disabled",
+      "let\u0027s",
+      "listen",
+      "nothing",
+      "nothing",
+      "the same",
+      "the table",
+      "the table",
+      "disable",
+      "the fable",
+      "nothing"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s study quietly.",
+    "transcripts": [
+      "30 30",
+      "study playlist",
+      "30 30",
+      "3030 Clary",
+      "3030 Clary",
+      "30 30",
+      "3030",
+      "study",
+      "30",
+      "quality",
+      "clarity",
+      "clarity",
+      "quality quietly",
+      "quality quietly"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s very comfy.",
+    "transcripts": [
+      "bed",
+      "very",
+      "Freddy",
+      "Freddy Krueger",
+      "Freddy",
+      "",
+      "Freddy",
+      "Freddy",
+      "",
+      "Freddy",
+      "fatty corned",
+      "fatty corned beef",
+      "Freddy kung fu",
+      "very comfy",
+      "redicalm be",
+      "very comfy",
+      "very comfy",
+      "very comfy",
+      "Freddy comfy",
+      "Freddie comfy",
+      "redicalm be",
+      "Freddy Crombie"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I love flowers.",
+    "transcripts": [
+      "I know",
+      "I love",
+      "I want",
+      "I",
+      "I know I love",
+      "I know I love you",
+      "I know I love",
+      "I know I love you",
+      "I love you",
+      "I know I love you",
+      "I love I love you",
+      "I know I love her",
+      "I love you I love you",
+      "don\u0027t",
+      "do my",
+      "come on",
+      "oh my God",
+      "come on",
+      "come on",
+      "come on",
+      "oh my God",
+      "come on.",
+      "AmazonSmile"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "That\u0027s my umbrella.",
+    "transcripts": [
+      "my",
+      "my",
+      "mi amor",
+      "my mother",
+      "mi amor",
+      "my mother",
+      "my umbrella",
+      "my umbrella",
+      "my",
+      "mi amor.",
+      "mi amor.",
+      "mi amor",
+      "my umbrella",
+      "mi amor.",
+      "my",
+      "my umbrella."
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "That\u0027s my umbrella.",
+    "transcripts": [
+      "my",
+      "my",
+      "mi amor",
+      "my mother",
+      "mi amor",
+      "my mother",
+      "my umbrella",
+      "my umbrella",
+      "my",
+      "mi amor.",
+      "mi amor.",
+      "mi amor",
+      "my umbrella",
+      "mi amor.",
+      "my",
+      "my umbrella."
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "You can run.",
+    "transcripts": [
+      "you",
+      "you",
+      "you knew",
+      "you",
+      "you knew",
+      "you you",
+      "you knew",
+      "you you can",
+      "you you you",
+      "you know you can",
+      "you",
+      "you can",
+      "you",
+      "you can",
+      "you"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "You can run.",
+    "transcripts": [
+      "you",
+      "you",
+      "you knew",
+      "you",
+      "you knew",
+      "you you",
+      "you knew",
+      "you you can",
+      "you you you",
+      "you know you can",
+      "you",
+      "you can",
+      "you",
+      "you can",
+      "you"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Grandpa Pig speaking.",
+    "transcripts": [
+      "big speech",
+      "speak",
+      "big speaker",
+      "big stupid speaking",
+      "big",
+      "big stupid speaking",
+      "big speaking",
+      "speaking",
+      "big stupid speaking",
+      "stupid speaking",
+      "Pig speaking",
+      "amazing"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "One ticket, please.",
+    "transcripts": [
+      "ticket",
+      "play",
+      "ticket please",
+      "ticket please",
+      "ticket please",
+      "tcat please",
+      "tickets please",
+      "kitty cat please",
+      "please",
+      "play",
+      "please",
+      "please"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "No, thank you.",
+    "transcripts": [
+      "game",
+      "games",
+      "thank you",
+      "thank you",
+      "thank you",
+      "games",
+      "thank you.",
+      "GameCube",
+      "gamekit"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Are you thirsty?",
+    "transcripts": [
+      "are you",
+      "are you home",
+      "are you hungry",
+      "are you",
+      "are you hungry"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m going fishing.",
+    "transcripts": [
+      "make",
+      "Becky",
+      "Becky G Becky G",
+      "Becky",
+      "Becky G Becky G",
+      "Becky G",
+      "Becky",
+      "fresh veggie",
+      "freshy freshy",
+      "going fishing",
+      "going fishing"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m going fishing.",
+    "transcripts": [
+      "make",
+      "Becky",
+      "Becky G Becky G",
+      "Becky",
+      "Becky G Becky G",
+      "Becky G",
+      "Becky",
+      "fresh veggie",
+      "freshy freshy",
+      "going fishing",
+      "going fishing"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It smells good.",
+    "transcripts": [
+      "mute Mouse good",
+      "mute Mouse good good good",
+      "mute Mouse good good good smells",
+      "mute Mouse good good good smells good",
+      "mute Mouse good good good smells good smells",
+      "mute Mouse good good good smells good smells good",
+      "mute Mouse good good good smells good smells good",
+      "mute Mouse good good good good smells good smells good",
+      "mute Mouse good good good good good smells good smells good",
+      "mute Mouse good girl good smells good smells good",
+      "mute Mouse good girl smells good smells good",
+      "super"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s for Christmas.",
+    "transcripts": [
+      "Fortress",
+      "for Christmas",
+      "for Christmas",
+      "for Christmas",
+      "four Christmas",
+      "for Christmas.",
+      "floor Christmas",
+      "Four Christmases"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It smells good.",
+    "transcripts": [
+      "you",
+      "you good",
+      "you you",
+      "you know",
+      "good",
+      "good",
+      "good you",
+      "good you got it"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It smells good.",
+    "transcripts": [
+      "you",
+      "you good",
+      "you you",
+      "you know",
+      "good",
+      "good",
+      "good you",
+      "good you got it"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It smells good.",
+    "transcripts": [
+      "you",
+      "you good",
+      "you you",
+      "you know",
+      "good",
+      "good",
+      "good you",
+      "good you got it"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It smells good.",
+    "transcripts": [
+      "you",
+      "you good",
+      "you you",
+      "you know",
+      "good",
+      "good",
+      "good you",
+      "good you got it"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s my grandma.",
+    "transcripts": [
+      "play",
+      "Minecraft",
+      "grandma",
+      "grandma",
+      "grandma",
+      "call Grandma",
+      "a grandma",
+      "add grandma",
+      "my grandma"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "all the cookies",
+    "transcripts": [
+      "the",
+      "doc",
+      "the cookie",
+      "the cookies",
+      "the",
+      "the cookies",
+      "the cookies",
+      "cookies",
+      "do the cookies",
+      "the Rockies",
+      "doc cookies"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I almost forgot.",
+    "transcripts": [
+      "God",
+      "got",
+      "forgot",
+      "forgot",
+      "I forgot",
+      "forgot.",
+      "for God.",
+      "four."
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Some more grapes.",
+    "transcripts": [
+      "some",
+      "summer",
+      "some more",
+      "some more",
+      "some more please",
+      "some more Queen",
+      "some more",
+      "summer Queen",
+      "Summer Place",
+      "boys"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Some more grapes.",
+    "transcripts": [
+      "some",
+      "summer",
+      "some more",
+      "some more",
+      "some more please",
+      "some more Queen",
+      "some more",
+      "summer Queen",
+      "Summer Place",
+      "boys"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "School is over.",
+    "transcripts": [
+      "play",
+      "please",
+      "prison",
+      "Toys R",
+      "Toys R Us",
+      "Toys R",
+      "Toys R Us",
+      "Toys R Us Toys R",
+      "Toys R Us Toys R Us",
+      "Toys R Us Toys R Us please over",
+      "Toys R Us Toys R Us is over",
+      "Toys R Us Toys R Us",
+      "Toys R Us Toys R Us toys over",
+      "Toys R Us please don\u0027t please over"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Look, a horse!",
+    "transcripts": [
+      "horse",
+      "a horse",
+      "horse",
+      "still horse",
+      "a horse",
+      "Silver Horse",
+      "so horse"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s my favorite.",
+    "transcripts": [
+      "friend",
+      "Brendan",
+      "panda",
+      "Brendan",
+      "Brendan my favorite",
+      "Brendan my favorite",
+      "Brandon my favorite",
+      "Brendan with my favorite",
+      "Brendon my favorite",
+      "Brendan with my favorites",
+      "author",
+      "awesome",
+      "awesome work",
+      "awesome word",
+      "awesome"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a chicken.",
+    "transcripts": [
+      "chicken",
+      "chicken",
+      "chicken chickens",
+      "chicken",
+      "chicken chicken chicken",
+      "chicken chicken chicken",
+      "a chicken chicken chicken",
+      "chicken chickens chicken",
+      "chicken kittens Cupid",
+      "chicken chickens Cupid"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "The snowman looks very happy.",
+    "transcripts": [
+      "omario",
+      "omario the Snowman",
+      "omario the Snowman Happy",
+      "Amarillo the Snowman Happy",
+      "Amarillo the Snowman Happy Happy",
+      "oh Mario the Snowman Happy",
+      "omario the Snowman Happy",
+      "oh Mario the Snowman Happy Happy"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m not wearing my hat.",
+    "transcripts": [
+      "I",
+      "I do",
+      "I",
+      "I don\u0027t",
+      "I don\u0027t",
+      "I don\u0027t wearing a hat",
+      "I don\u0027t wearing a hat I",
+      "I don\u0027t wearing a hat I am not",
+      "I don\u0027t wearing a hat I am not wearing his hat",
+      "I don\u0027t wearing a hat I\u0027m not wearing his hat",
+      "I don\u0027t wearing all that I\u0027m not wearing his hat",
+      "I don\u0027t wearing a hat I am not wearing his hat",
+      "I don\u0027t wearing all that I am not wearing his hat",
+      "I don\u0027t wearing off. I\u0027m not wearing his hat"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m not wearing my hat.",
+    "transcripts": [
+      "I",
+      "I do",
+      "I",
+      "I don\u0027t",
+      "I don\u0027t",
+      "I don\u0027t wearing a hat",
+      "I don\u0027t wearing a hat I",
+      "I don\u0027t wearing a hat I am not",
+      "I don\u0027t wearing a hat I am not wearing his hat",
+      "I don\u0027t wearing a hat I\u0027m not wearing his hat",
+      "I don\u0027t wearing all that I\u0027m not wearing his hat",
+      "I don\u0027t wearing a hat I am not wearing his hat",
+      "I don\u0027t wearing all that I am not wearing his hat",
+      "I don\u0027t wearing off. I\u0027m not wearing his hat"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m not wearing my hat.",
+    "transcripts": [
+      "I",
+      "I do",
+      "I",
+      "I don\u0027t",
+      "I don\u0027t",
+      "I don\u0027t wearing a hat",
+      "I don\u0027t wearing a hat I",
+      "I don\u0027t wearing a hat I am not",
+      "I don\u0027t wearing a hat I am not wearing his hat",
+      "I don\u0027t wearing a hat I\u0027m not wearing his hat",
+      "I don\u0027t wearing all that I\u0027m not wearing his hat",
+      "I don\u0027t wearing a hat I am not wearing his hat",
+      "I don\u0027t wearing all that I am not wearing his hat",
+      "I don\u0027t wearing off. I\u0027m not wearing his hat"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m not wearing my hat.",
+    "transcripts": [
+      "I",
+      "I do",
+      "I",
+      "I don\u0027t",
+      "I don\u0027t",
+      "I don\u0027t wearing a hat",
+      "I don\u0027t wearing a hat I",
+      "I don\u0027t wearing a hat I am not",
+      "I don\u0027t wearing a hat I am not wearing his hat",
+      "I don\u0027t wearing a hat I\u0027m not wearing his hat",
+      "I don\u0027t wearing all that I\u0027m not wearing his hat",
+      "I don\u0027t wearing a hat I am not wearing his hat",
+      "I don\u0027t wearing all that I am not wearing his hat",
+      "I don\u0027t wearing off. I\u0027m not wearing his hat"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m not wearing my hat.",
+    "transcripts": [
+      "I",
+      "I do",
+      "I",
+      "I don\u0027t",
+      "I don\u0027t",
+      "I don\u0027t wearing a hat",
+      "I don\u0027t wearing a hat I",
+      "I don\u0027t wearing a hat I am not",
+      "I don\u0027t wearing a hat I am not wearing his hat",
+      "I don\u0027t wearing a hat I\u0027m not wearing his hat",
+      "I don\u0027t wearing all that I\u0027m not wearing his hat",
+      "I don\u0027t wearing a hat I am not wearing his hat",
+      "I don\u0027t wearing all that I am not wearing his hat",
+      "I don\u0027t wearing off. I\u0027m not wearing his hat"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Someone\u0027s knocking at the door.",
+    "transcripts": [
+      "all the",
+      "all the time",
+      "all the toy",
+      "auditor",
+      "all the door",
+      "all the door",
+      "out the door",
+      "at the door",
+      "the door",
+      "call the door"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a movie about planes!",
+    "transcripts": [
+      "David",
+      "zombie movie",
+      "zombie movie",
+      "movie about",
+      "movie about",
+      "movie about play",
+      "movies about plane",
+      "movie about a plane",
+      "movie about a plane",
+      "movie about plane",
+      "zombie movies about plane",
+      "movie about a plane",
+      "movies about plane",
+      "zombie movie about a plane",
+      "good",
+      "good",
+      "good job"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s 5:00 in the morning.",
+    "transcripts": [
+      "HP",
+      "egg pie",
+      "h-pylori",
+      "egg pie in the",
+      "egg pie in",
+      "egg pie in the world",
+      "egg pie in the mall",
+      "egg pie in the more",
+      "egg pie in the",
+      "egg pie in the morning",
+      "egg pie in",
+      "egg pie in the morning",
+      "egg pie in the morning",
+      "8 Pi in the morning",
+      "Pitch Pine in the morning",
+      "it\u0027s pie in the morning",
+      "8 pie in the morning",
+      "I thought",
+      "I thought I",
+      "I thought I\u0027d"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Getting wet wasn\u0027t so bad after all.",
+    "transcripts": [
+      "so dead a bed",
+      "so Dad a bed",
+      "so dead bed",
+      "so dead I bed",
+      "so dads a bed",
+      "are",
+      "what is so bad I",
+      "what is so bad",
+      "what is so bad",
+      "are you so bad at",
+      "what is so badass",
+      "wasn\u0027t so bad after",
+      "wasn\u0027t so bad after all",
+      "wasn\u0027t so bad after",
+      "wasn\u0027t so bad after all",
+      "wasn\u0027t so bad after all",
+      "I wasn\u0027t so bad after all",
+      "what is so bad after all",
+      "are so bad after all",
+      "what does so bad after all"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "go out",
+    "transcripts": [
+      "all",
+      "all I",
+      "all out",
+      "all",
+      "all out",
+      "all wound",
+      "all around",
+      "all round",
+      "all-out"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "last year",
+    "transcripts": [
+      "laugh",
+      "last",
+      "last",
+      "last night",
+      "last night",
+      "last last",
+      "last class",
+      "last",
+      "last flag flying"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "my umbrella",
+    "transcripts": [
+      "my",
+      "my",
+      "my",
+      "my friend",
+      "MI",
+      "my girl",
+      "Mai"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s play.",
+    "transcripts": [
+      "play",
+      "play",
+      "play",
+      "play play",
+      "clay",
+      "play a",
+      "play."
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s raining.",
+    "transcripts": [
+      "Caltrain",
+      "rainy",
+      "raining",
+      "rainy",
+      "rainy",
+      "a rainy day",
+      "rainy rainy",
+      "rainy rainy",
+      "rainy rainy",
+      "rainy rainy day",
+      "ranie ranie",
+      "Raini Raini",
+      "a rainy rainy day",
+      "Ray",
+      "rain"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s go and get your mom.",
+    "transcripts": [
+      "Jackie your",
+      "Jackie your",
+      "Jackie",
+      "Jackie your mom",
+      "Jackie your mom get",
+      "Jackie your mom get your",
+      "Jackie your mom get your mom",
+      "Jackie your mom get your mom",
+      "Jackie your mom gets your mom",
+      "get your mom get your mom",
+      "your mom get your mom",
+      "your mom gets your mom"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I forgot my jacket.",
+    "transcripts": [
+      "My",
+      "My dad",
+      "My",
+      "My dad",
+      "My dad cats",
+      "My dad cat",
+      "My dad cast",
+      "My dad casts",
+      "My dad caps",
+      "my",
+      "my dad",
+      "my",
+      "my dad",
+      "my",
+      "my jacket",
+      "my jacket that",
+      "my jacket that kid",
+      "my dad kid that kid",
+      "my jacket that kid",
+      "my dad cat that kid",
+      "my dad kids that kid",
+      "my dad can get that kid"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "You\u0027re faster.",
+    "transcripts": [
+      "last",
+      "faster",
+      "fast are",
+      "VyStar",
+      "VyStar",
+      "faster",
+      "Landstar",
+      "last star",
+      "five star"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Look out, my pumpkin!",
+    "transcripts": [
+      "my",
+      "my",
+      "my pumpkin",
+      "my pumpkin",
+      "my punkin",
+      "hey my pumpkin",
+      "play my pumpkin",
+      "pumpkin"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m painting.",
+    "transcripts": [
+      "pay",
+      "pain",
+      "paint",
+      "painting",
+      "painting",
+      "painting",
+      "painting me",
+      "panting",
+      "painting.",
+      "painting meaning"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m painting.",
+    "transcripts": [
+      "pay",
+      "pain",
+      "paint",
+      "painting",
+      "painting",
+      "painting",
+      "painting me",
+      "panting",
+      "painting.",
+      "painting meaning"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "the postman",
+    "transcripts": [
+      "ultimate ultimate ultimate ultimate ultimate",
+      "ultimate ultimate ultimate ultimate ultimate Postman",
+      "ultimate ultimate ultimate ultimate ultimate Postman Postman",
+      "ultimate ultimate ultimate ultimate ultimate Postman Postman",
+      "ultimate ultimate ultimate ultimate ultimate Postman Postman.",
+      "ultimate ultimate ultimate ultimate ultimate Postman postmaster",
+      "ultimate ultimate ultimate ultimate ultimate Postman Postman Pat",
+      "ultimate ultimate ultimate ultimate ultimate Postman Postman app"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Where\u0027s Daddy?",
+    "transcripts": [
+      "set",
+      "daddy",
+      "daddy",
+      "daddy daddy",
+      "daddy daddy",
+      "daddy daddy daddy",
+      "daddy daddy do",
+      "dad daddy",
+      "daddy",
+      "daddy"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "This one.",
+    "transcripts": [
+      "do you",
+      "these",
+      "this",
+      "this",
+      "these",
+      "teeth",
+      "Thief",
+      "Des"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "red circle",
+    "transcripts": [
+      "start",
+      "dark",
+      "Circle",
+      "start car",
+      "Circle",
+      "Circle",
+      "sir Carter",
+      "start car",
+      "Sidecar",
+      "sucker"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "red circle",
+    "transcripts": [
+      "start",
+      "dark",
+      "Circle",
+      "start car",
+      "Circle",
+      "Circle",
+      "sir Carter",
+      "start car",
+      "Sidecar",
+      "sucker"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "red circle",
+    "transcripts": [
+      "start",
+      "dark",
+      "Circle",
+      "start car",
+      "Circle",
+      "Circle",
+      "sir Carter",
+      "start car",
+      "Sidecar",
+      "sucker"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Good idea.",
+    "transcripts": [
+      "I",
+      "I did",
+      "I see",
+      "idea",
+      "idea",
+      "idea",
+      "Ikea",
+      "itea",
+      "ideas",
+      "idea."
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I just can\u0027t remember.",
+    "transcripts": [
+      "can",
+      "can you",
+      "Henry",
+      "can you remember",
+      "can you remember",
+      "can you remember remember",
+      "can you remember remember",
+      "can you remember what happened remember",
+      "can you remember what kind of remember",
+      "can you remember",
+      "Henry never remember",
+      "I can",
+      "can we",
+      "remind",
+      "I can remember",
+      "I can remember",
+      "I can remember",
+      "I can\u0027t remember",
+      "remember",
+      "I remember",
+      "can\u0027t remember"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Excuse me.",
+    "transcripts": [
+      "you to do with me",
+      "you to do with me me",
+      "you to do with me me",
+      "you to do this me me",
+      "did you do this to me me",
+      "YouTube videos me me",
+      "did you do with me me"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Hello, bird.",
+    "transcripts": [
+      "hey",
+      "hello",
+      "Halo",
+      "hello",
+      "hello hello",
+      "hey hey hey",
+      "early",
+      "earlier"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a sunny day.",
+    "transcripts": [
+      "sunny",
+      "sunny",
+      "sunny",
+      "where\u0027s sunny",
+      "where\u0027s Sonny",
+      "sunny day",
+      "Sonny"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a sunny day.",
+    "transcripts": [
+      "sunny",
+      "sunny",
+      "sunny",
+      "where\u0027s sunny",
+      "where\u0027s Sonny",
+      "sunny day",
+      "Sonny"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "red apples",
+    "transcripts": [
+      "Apple",
+      "a fart",
+      "Apple",
+      "a far",
+      "Apple",
+      "a far",
+      "apple farm",
+      "a farm",
+      "apples"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027ll get your pajamas.",
+    "transcripts": [
+      "Bananas in Pajamas",
+      "Bananas in Pyjamas",
+      "pajamas pajamas",
+      "bananas and pajamas",
+      "bananas you are pajamas",
+      "you",
+      "you\u0027re",
+      "your boy",
+      "your butt",
+      "your body",
+      "your vagina",
+      "your volume",
+      "your",
+      "your pajamas",
+      "your pajamas",
+      "your Pyjamas",
+      "in your pajamas",
+      "your pajamas.",
+      "your pajamas on",
+      "yeah",
+      "you said it"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Free us!",
+    "transcripts": [
+      "us",
+      "us",
+      "us",
+      "art",
+      "Define us",
+      "Earth"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Mommy\u0027s shoes.",
+    "transcripts": [
+      "lumos Google",
+      "lumos",
+      "Loomis",
+      "lumos scooter",
+      "Loomis Jr",
+      "good",
+      "good suit shoes",
+      "good suit shoes",
+      "shoes shoes",
+      "shoes shoes",
+      "Jusuf",
+      "shoes shoes",
+      "Jusuf",
+      "good suit shoes shoes",
+      "shoes shoes",
+      "good shoes shoes",
+      "good suit shoes"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Daddy\u0027s glasses.",
+    "transcripts": [
+      "Angie Google glasses",
+      "Angie Google glasses",
+      "Anthony Google glasses",
+      "Benji stuff",
+      "Angie",
+      "Anthony"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s only a quarter past winter.",
+    "transcripts": [
+      "is Omni Opera past winter winter winter",
+      "is Omni a polar past winter winter winter",
+      "is Oney Opera past winter winter winter",
+      "is Olney a polar past winter winter winter",
+      "is Olney Opera past winter winter winter",
+      "who",
+      "pool",
+      "Pura",
+      "Hulu",
+      "who wrote",
+      "Pooler",
+      "Pooler",
+      "polar pools",
+      "Pooler Pooler",
+      "Pooler Pooler",
+      "poodle poodle cat",
+      "poodle poodle cat",
+      "poodle poodle",
+      "Pooler Pooler pet winter",
+      "Pooler Pooler Pat winter",
+      "Pooler Pooler cat winter",
+      "Pooler Pooler cat litter",
+      "Pooler Pooler pet weather",
+      "polar",
+      "pull",
+      "put",
+      "play Rock",
+      "Pollock",
+      "Pollock",
+      "Pollock",
+      "call Rock",
+      "call Roc",
+      "pool Rock",
+      "call Rach"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s not my fault.",
+    "transcripts": [
+      "it",
+      "it\u0027s",
+      "it\u0027s a",
+      "it\u0027s an",
+      "it\u0027s in",
+      "it",
+      "it",
+      "it\u0027s not",
+      "it\u0027s not",
+      "it\u0027s not my",
+      "it\u0027s not my",
+      "it is not my",
+      "it\u0027s not in my",
+      "it not my",
+      "it\u0027s not my my"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "eat cornflakes for breakfast",
+    "transcripts": [
+      "Bluetooth",
+      "Bluetooth",
+      "Bluetooth flies to",
+      "Bluetooth 5.0",
+      "Bluetooth fly",
+      "Bluetooth fly toys",
+      "Bluetooth flight",
+      "big",
+      "dick",
+      "Dick\u0027s Sporting",
+      "bitcoin",
+      "Big corned",
+      "Bighorn fly",
+      "Big Corn Flakes",
+      "Big corn flakes for",
+      "Big corn flakes for breakfast",
+      "Big corn flakes",
+      "Big corn flakes for",
+      "Big corn flakes for breakfast"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I don\u0027t know what to say.",
+    "transcripts": [
+      "they want",
+      "they want to",
+      "they want",
+      "they want to",
+      "they want to say",
+      "they want to say say say",
+      "they want to say say say did they do",
+      "they want to say say say",
+      "they want to see what they say they did they do",
+      "you want to say say say",
+      "they want to they think they did they do",
+      "they want to see what they say",
+      "I\u0027m so proud of you"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Your turn.",
+    "transcripts": [
+      "turn",
+      "turn",
+      "turn",
+      "Turner",
+      "turn on",
+      "turn off"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Grandpa\u0027s house",
+    "transcripts": [
+      "help",
+      "house",
+      "house party",
+      "house",
+      "house",
+      "how SpongeBob how",
+      "house house",
+      "house house",
+      "house house",
+      "help SpongeBob\u0027s house",
+      "house party house",
+      "House Bunny House",
+      "house party"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Can we keep it?",
+    "transcripts": [
+      "is",
+      "can",
+      "can you",
+      "can you feel",
+      "can you feed",
+      "can",
+      "can you",
+      "can you fake it",
+      "can you fix it",
+      "can you speak it",
+      "can you fix kit",
+      "can you forget it"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Can we keep it?",
+    "transcripts": [
+      "is",
+      "can",
+      "can you",
+      "can you feel",
+      "can you feed",
+      "can",
+      "can you",
+      "can you fake it",
+      "can you fix it",
+      "can you speak it",
+      "can you fix kit",
+      "can you forget it"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Can we keep it?",
+    "transcripts": [
+      "is",
+      "can",
+      "can you",
+      "can you feel",
+      "can you feed",
+      "can",
+      "can you",
+      "can you fake it",
+      "can you fix it",
+      "can you speak it",
+      "can you fix kit",
+      "can you forget it"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Don\u0027t make a mess.",
+    "transcripts": [
+      "rock",
+      "rat",
+      "Iraq",
+      "cracked",
+      "crack",
+      "I am a",
+      "a man",
+      "a map",
+      "a mess",
+      "a",
+      "a mess",
+      "a mess",
+      "I am a mess",
+      "am a mess",
+      "am s",
+      "I am s"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Wow, cool!",
+    "transcripts": [
+      "wow who who who who who who",
+      "well who who who who who who",
+      "wow who who who who who",
+      "wow who who who who who who who",
+      "well who who who who who"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "a key",
+    "transcripts": [
+      "Aki",
+      "aqui",
+      "RT",
+      "Chucky",
+      "a t t"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027ll call you when it\u0027s ready.",
+    "transcripts": [
+      "are you ready",
+      "are you ready when you",
+      "are you ready when you are",
+      "are you ready when you",
+      "are you ready when you ready",
+      "are you ready are you ready",
+      "play are you ready when you ready",
+      "are you ready you ready",
+      "play you ready when you ready",
+      "x-ray",
+      "actuary",
+      "actuary",
+      "actor Eddie Easter egg",
+      "it\u0027s ready it\u0027s ready",
+      "it\u0027s ready it\u0027s ready"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027ll call you when it\u0027s ready.",
+    "transcripts": [
+      "are you ready",
+      "are you ready when you",
+      "are you ready when you are",
+      "are you ready when you",
+      "are you ready when you ready",
+      "are you ready are you ready",
+      "play are you ready when you ready",
+      "are you ready you ready",
+      "play you ready when you ready",
+      "x-ray",
+      "actuary",
+      "actuary",
+      "actor Eddie Easter egg",
+      "it\u0027s ready it\u0027s ready",
+      "it\u0027s ready it\u0027s ready"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s get our boots.",
+    "transcripts": [
+      "yeah",
+      "dad",
+      "dad\u0027s",
+      "dads",
+      "dad\u0027s out",
+      "dad\u0027s our",
+      "dad\u0027s",
+      "dad\u0027s our food",
+      "dad\u0027s our",
+      "dad\u0027s our Foods",
+      "dad\u0027s our boots",
+      "dads our Foods",
+      "dad\u0027s our food",
+      "dad\u0027s hour foods",
+      "Booty like"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "play tennis",
+    "transcripts": [
+      "play ponies",
+      "play pennies",
+      "play Penny\u0027s",
+      "play Penney\u0027s",
+      "play penny"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "We\u0027ll find Mr. Dinosaur.",
+    "transcripts": [
+      "dinosaur dinosaur dinosaur",
+      "dinosaur dinosaur dinosaur",
+      "dinosaur dinosaur dinosaur dinosaur",
+      "dinosaur dinosaur are dinosaurs",
+      "dinosaur dinosaur a dinosaur",
+      "dinosaur dinosaur",
+      "mr.",
+      "mr.",
+      "mystery diners",
+      "mr. dinosaur",
+      "mr.",
+      "mr.",
+      "mr. dinosaur",
+      "Mister dinosaur",
+      "mr. dinosaur",
+      "meter dinosaur",
+      "Mr Dinosaur",
+      "mystery dinosaur",
+      "open the",
+      "open",
+      "open",
+      "open mr.",
+      "open with",
+      "open Mr Dinosaur"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "clean up",
+    "transcripts": [
+      "up",
+      "up up",
+      "play",
+      "please",
+      "up please",
+      "up please",
+      "please",
+      "app please",
+      "please.",
+      "up please."
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Pull it!",
+    "transcripts": [
+      "it",
+      "it",
+      "it",
+      "is it",
+      "it\u0027d",
+      "it is"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Push it!",
+    "transcripts": [
+      "it",
+      "is it",
+      "it\u0027d",
+      "it is",
+      "I\u0027m leaving",
+      "I\u0027m leaving",
+      "I\u0027m leaving",
+      "amazing",
+      "I am leaving",
+      "leaving"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I speak for all of us.",
+    "transcripts": [
+      "ICP Horeb us all of us all",
+      "ICP Horeb us all of us all of us",
+      "ICP Horeb us all of us all of us all",
+      "ICP Horeb us all of us all of us all of us",
+      "ICP Horeb us all of us all of us all of us",
+      "icmp Horeb us all of us all of us all of us",
+      "ICP Orab us all of us all of us all of us",
+      "ICP Horeb us all of us all of us all of us horrible",
+      "ICP orobas all of us all of us all of us",
+      "give me",
+      "give me"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Great idea!",
+    "transcripts": [
+      "what",
+      "what I",
+      "write a",
+      "right",
+      "right",
+      "what race",
+      "what race are",
+      "right right",
+      "what race are you",
+      "Rite-Way idea",
+      "Rite-Way idea",
+      "wright-way Idea",
+      "what idea",
+      "right right idea",
+      "what race idea"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "My umbrella.",
+    "transcripts": [
+      "my",
+      "my",
+      "my",
+      "MI",
+      "Mai",
+      "Mae",
+      "money"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "One, two, three, four, five, six, seven.",
+    "transcripts": [
+      "five",
+      "5",
+      "56",
+      "five six",
+      "560",
+      "565",
+      "567",
+      "567",
+      "567",
+      "5 6 7",
+      "five six seven",
+      "56 7",
+      "5687",
+      "San",
+      "send",
+      "Sandra",
+      "Samurai",
+      "Sandbridge",
+      "7",
+      "7",
+      "712",
+      "7123",
+      "7 1 2 3 4",
+      "7 1 2 3 4 5",
+      "7 1 2 3 4",
+      "7 1 2 3 4 5",
+      "7 1 2 3 4 5 6",
+      "7 1 2 3 4 5 6 7"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s 5:00 in the morning.",
+    "transcripts": [
+      "Ian",
+      "and",
+      "in",
+      "and",
+      "and I",
+      "in a",
+      "Ian",
+      "and I",
+      "in a way",
+      "in a fight",
+      "in a",
+      "in a fight",
+      "in a fight money",
+      "in a fight money",
+      "in a fight Marley",
+      "in a fight morning",
+      "in a fight Marnie",
+      "in a fight money.",
+      "wow",
+      "wow"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s seven in the morning.",
+    "transcripts": [
+      "is",
+      "is staph",
+      "is Stampy",
+      "is Santa",
+      "is someone",
+      "is Stampy",
+      "is Tampa",
+      "is Stampy",
+      "is",
+      "is Stampy",
+      "Tampa",
+      "is Stamper",
+      "is Sam Hunt",
+      "is Tampa",
+      "It\u0027s",
+      "It\u0027s a",
+      "It\u0027s",
+      "it\u0027s",
+      "it\u0027s 7",
+      "it\u0027s 7",
+      "its 7",
+      "it\u0027s seven",
+      "it\u0027s 7.",
+      "it\u0027s at 7"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "My voice is getting quieter!",
+    "transcripts": [
+      "Niagara to",
+      "Niagara to Spanish",
+      "Niagara to",
+      "Niagara to spell each other",
+      "Niagara to spell",
+      "Niagara to spell quieter quieter",
+      "Niagara to spell quieter quieter quieter",
+      "Niagara to spell quieter quieter quieter quieter",
+      "Niagara to spell quieter quieter quieter quieter",
+      "my girl to spell quieter quieter quieter quieter",
+      "Niagra to spell quieter quieter quieter quieter",
+      "Niagara two spell quieter quieter quieter quieter",
+      "Niagara 2 spell quieter quieter quieter quieter",
+      "that was",
+      "that was my",
+      "that was real",
+      "that was",
+      "that was really",
+      "that was really good"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "My favorite food is hamburgers.",
+    "transcripts": [
+      "France is",
+      "France is frappe",
+      "France is Frappe",
+      "France is Frappe hamburger",
+      "France is Frappe hamburger",
+      "France is Frappe Hamburglar",
+      "France is frap hamburger",
+      "France is Frappe hamburgers",
+      "France is frap Hamburglar"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Grandpa Pig speaking.",
+    "transcripts": [
+      "pep",
+      "Peppa",
+      "Peppa",
+      "Peppa Arby\u0027s",
+      "Peppa",
+      "Peppa Harby\u0027s speaking",
+      "Peppa Harby\u0027s picking",
+      "Peppa harbees speaking",
+      "Peppa Arby\u0027s speaking",
+      "Peppa harbees picking",
+      "Peppa",
+      "Peppa",
+      "Peppa Peppa"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Grandpa Pig speaking.",
+    "transcripts": [
+      "pep",
+      "Peppa",
+      "Peppa",
+      "Peppa Arby\u0027s",
+      "Peppa",
+      "Peppa Harby\u0027s speaking",
+      "Peppa Harby\u0027s picking",
+      "Peppa harbees speaking",
+      "Peppa Arby\u0027s speaking",
+      "Peppa harbees picking",
+      "Peppa",
+      "Peppa",
+      "Peppa Peppa"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "At the playground.",
+    "transcripts": [
+      "right",
+      "reggae",
+      "dragon",
+      "regular",
+      "dragon",
+      "regular",
+      "dragon",
+      "dragon",
+      "Reagan",
+      "dragon",
+      "Regan",
+      "ray gun",
+      "raygun",
+      "play",
+      "play the",
+      "Play the movie",
+      "play music",
+      "play",
+      "play music"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Oh thank you, that\u0027s so kind.",
+    "transcripts": [
+      "thank you",
+      "thank you I",
+      "thank you",
+      "thank you I\u0027ll call",
+      "thank you I\u0027ll call you or I",
+      "thank you I\u0027ll call",
+      "thank you I\u0027ll call your I thank",
+      "thank you I\u0027ll call your I thank you",
+      "thank you I\u0027ll call your I thank",
+      "thank you I\u0027ll call your I thank you",
+      "thank you I\u0027ll call your I thank you across your aunt",
+      "thank you I\u0027ll call you or I thank you across your aunt",
+      "thank you I\u0027ll call your I thank you I\u0027ll call your Aunt",
+      "thank you I\u0027ll call your I thank you across your arm",
+      "thank you I\u0027ll pass your I thank you across your aunt",
+      "I",
+      "I\u0027m",
+      "I",
+      "I\u0027m",
+      "I",
+      "I"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m playing soccer.",
+    "transcripts": [
+      "I plant",
+      "I plant",
+      "I plan",
+      "I\u0027m playing",
+      "I playing",
+      "I plan to",
+      "I",
+      "I",
+      "i-Ready",
+      "I ready",
+      "i-Ready",
+      "I love you",
+      "I play",
+      "I want"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Look, a flower!",
+    "transcripts": [
+      "flower",
+      "flower",
+      "flower",
+      "flour",
+      "flower power",
+      "Clower",
+      "3 hour",
+      "pick",
+      "amazing",
+      "amazing"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a present.",
+    "transcripts": [
+      "prison",
+      "presents",
+      "presence",
+      "present",
+      "present",
+      "presence",
+      "presence",
+      "present",
+      "presents",
+      "prison"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Look, a cow!",
+    "transcripts": [
+      "no",
+      "look",
+      "look",
+      "look up",
+      "look up",
+      "look",
+      "look all",
+      "look out",
+      "look at"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Look, a cow!",
+    "transcripts": [
+      "no",
+      "look",
+      "look",
+      "look up",
+      "look up",
+      "look",
+      "look all",
+      "look out",
+      "look at"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Where is she?",
+    "transcripts": [
+      "she",
+      "sing",
+      "shein",
+      "shein",
+      "shein",
+      "Sheen",
+      "scene",
+      "sing",
+      "seen"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Yes, it\u0027s new.",
+    "transcripts": [
+      "yeah",
+      "yes",
+      "yes",
+      "yes it is",
+      "yes",
+      "yes is you",
+      "yes it is you",
+      "yes it\u0027s you",
+      "yes it you",
+      "yes it\u0027s just you"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I almost forgot.",
+    "transcripts": [
+      "I",
+      "I am I",
+      "I",
+      "I am I",
+      "the God I know.",
+      "the God I know.",
+      "the God I know.",
+      "Google I.",
+      "I can\u0027t lie.",
+      "I.",
+      "I know."
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s an apple.",
+    "transcripts": [
+      "Apple",
+      "Apple",
+      "a apple",
+      "Appel",
+      "April"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "She\u0027s my friend.",
+    "transcripts": [
+      "my",
+      "my",
+      "mine",
+      "my mom",
+      "my mom",
+      "my mom my",
+      "my",
+      "my my",
+      "my mom my",
+      "my my my",
+      "my mom my mom",
+      "mi-mi-mi"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I saw ducks.",
+    "transcripts": [
+      "Don\u0027t",
+      "Don\u0027t do",
+      "Duck duck duck",
+      "Ducks ducks ducks",
+      "Ducks ducks ducks.",
+      "Ducks ducks ducks ducks",
+      "Ducks ducks ducks",
+      "Ducks ducks ducks ducks",
+      "Ducks ducks ducks",
+      "Duck duck duck duck",
+      "Ducks ducks ducks.",
+      "Duck duck duck"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s going up.",
+    "transcripts": [
+      "look up",
+      "look up",
+      "up",
+      "it up",
+      "it\u0027s up",
+      "is it up",
+      "are we not",
+      "are we not",
+      "are we not",
+      "we not",
+      "do we not",
+      "or we not"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a present.",
+    "transcripts": [
+      "all",
+      "All Pro",
+      "all Plus",
+      "all",
+      "all Frozen",
+      "all Frozen",
+      "all present",
+      "all profession",
+      "all presents",
+      "all Frozen."
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Tell me, dad.",
+    "transcripts": [
+      "the",
+      "that.",
+      "that.",
+      "that",
+      "Dad Dad",
+      "Dad Dad",
+      "Dad",
+      "that that that",
+      "that Dad Dad",
+      "that Dad"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s too slow.",
+    "transcripts": [
+      "it",
+      "it",
+      "It",
+      "It 2",
+      "it",
+      "It 2",
+      "it two",
+      "it to",
+      "it too",
+      "it 2-all"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It’s a snail.",
+    "transcripts": [
+      "Mania Mania",
+      "man",
+      "ma\u0027am",
+      "Snowman",
+      "mam",
+      "name",
+      "man",
+      "man",
+      "man",
+      "ma\u0027am",
+      "mam",
+      "Mann",
+      "Mane",
+      "snake",
+      "snail",
+      "sneha",
+      "Naya",
+      "snail",
+      "Mania",
+      "sneha",
+      "Naya"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It’s a snail.",
+    "transcripts": [
+      "Mania Mania",
+      "man",
+      "ma\u0027am",
+      "Snowman",
+      "mam",
+      "name",
+      "man",
+      "man",
+      "man",
+      "ma\u0027am",
+      "mam",
+      "Mann",
+      "Mane",
+      "snake",
+      "snail",
+      "sneha",
+      "Naya",
+      "snail",
+      "Mania",
+      "sneha",
+      "Naya"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Where\u0027s Uncle Pilot?",
+    "transcripts": [
+      "pilot",
+      "pilot",
+      "pilot",
+      "pallet",
+      "Pilate",
+      "palette",
+      "Shop Pilot"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It might rain.",
+    "transcripts": [
+      "my",
+      "my my",
+      "my my",
+      "my my way",
+      "my my way",
+      "my way",
+      "my my brain",
+      "my my ring",
+      "my my rain"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It might snow.",
+    "transcripts": [
+      "now",
+      "now",
+      "now",
+      "now now",
+      "now.",
+      "Snell",
+      "Nao",
+      "snow",
+      "snow",
+      "Snow",
+      "Snow White Snow",
+      "Snow White"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "We\u0027ve done it.",
+    "transcripts": [
+      "Danny Danny Danny Danny",
+      "Danny Danny Danny Danny it is",
+      "sunny sunny sunny sunny it is",
+      "sunny sunny sunny sunny",
+      "Danny Danny Danny Danny eat",
+      "it",
+      "eat",
+      "stop"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s very boring.",
+    "transcripts": [
+      "family",
+      "bat family",
+      "bat family",
+      "family for",
+      "bat family",
+      "very funny",
+      "very funny",
+      "very funny",
+      "bat family",
+      "40",
+      "Ferry Building",
+      "family 40",
+      "ballet",
+      "ballet",
+      "Saturday",
+      "ballet",
+      "ballet Bowdoin",
+      "ballet",
+      "ballet Forte",
+      "40",
+      "Saturday",
+      "540",
+      "good job"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It smells good.",
+    "transcripts": [
+      "good",
+      "good",
+      "good.",
+      "glute",
+      "glutes"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "An apple tree.",
+    "transcripts": [
+      "apple apple apple apple",
+      "apple apple apple apple",
+      "apple apple apple",
+      "Apple Apple",
+      "Appleton Airport",
+      "Edward Harris Appleton"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a sunflower.",
+    "transcripts": [
+      "stop",
+      "saffron",
+      "Surfer",
+      "South",
+      "soft",
+      "saffron rice",
+      "saffron",
+      "saffron",
+      "Saffron",
+      "saffron flower",
+      "saffron Walmart",
+      "saffron flower",
+      "saffron wall",
+      "saffron rice",
+      "sunflower"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a sunflower.",
+    "transcripts": [
+      "stop",
+      "saffron",
+      "Surfer",
+      "South",
+      "soft",
+      "saffron rice",
+      "saffron",
+      "saffron",
+      "Saffron",
+      "saffron flower",
+      "saffron Walmart",
+      "saffron flower",
+      "saffron wall",
+      "saffron rice",
+      "sunflower"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a chicken.",
+    "transcripts": [
+      "chick",
+      "chicken",
+      "chicken",
+      "chicken",
+      "chickens",
+      "Chicken Shack",
+      "chicken.",
+      "chicken coop"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let me help.",
+    "transcripts": [
+      "me",
+      "me",
+      "house",
+      "me house",
+      "house house",
+      "house house",
+      "house house",
+      "me house house",
+      "my house house",
+      "mini house house",
+      "Mimi house house"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let me help.",
+    "transcripts": [
+      "me",
+      "me",
+      "house",
+      "me house",
+      "house house",
+      "house house",
+      "house house",
+      "me house house",
+      "my house house",
+      "mini house house",
+      "Mimi house house"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "He\u0027s really hungry.",
+    "transcripts": [
+      "please",
+      "please",
+      "hungry",
+      "fish is hungry",
+      "fish is hungry",
+      "hungry hungry",
+      "hungry hungry",
+      "hungry hungry",
+      "hungry hungry hungry",
+      "fish hungry hungry",
+      "fish is hungry hungry",
+      "fish is hungry",
+      "please",
+      "please"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "He\u0027s really hungry.",
+    "transcripts": [
+      "please",
+      "please",
+      "hungry",
+      "fish is hungry",
+      "fish is hungry",
+      "hungry hungry",
+      "hungry hungry",
+      "hungry hungry",
+      "hungry hungry hungry",
+      "fish hungry hungry",
+      "fish is hungry hungry",
+      "fish is hungry",
+      "please",
+      "please"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a star.",
+    "transcripts": [
+      "Dora Dora",
+      "Dora Dora Dora",
+      "Star Dora",
+      "star star",
+      "Dora Dora song",
+      "all",
+      "all",
+      "all all",
+      "awl",
+      "call",
+      "stop",
+      "Star",
+      "start",
+      "Star",
+      "Star",
+      "*",
+      "Starr",
+      "STAAR",
+      "start",
+      "aw",
+      "awesome"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a strawberry.",
+    "transcripts": [
+      "stop",
+      "storm",
+      "store",
+      "Sturbridge",
+      "story",
+      "strawberry",
+      "strawberry",
+      "strawberry",
+      "storyberry",
+      "Stoneberry",
+      "store Berry",
+      "strawberry cake"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It’s a snail.",
+    "transcripts": [
+      "Chanel Chanel",
+      "Chanel",
+      "Chanel Chanel",
+      "Janelle Janelle",
+      "Janelle",
+      "Schnell",
+      "now",
+      "now",
+      "now",
+      "snail",
+      "nail",
+      "Nile",
+      "now now",
+      "snail",
+      "Chanel",
+      "snail",
+      "snail",
+      "Chanel",
+      "Snell",
+      "Janelle",
+      "Schnell"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "One, two, three!",
+    "transcripts": [
+      "123 123 123",
+      "1 2 3 1 2 3 1 2 3",
+      "1-2-3 1-2-3 1-2-3",
+      "do",
+      "just",
+      "Jeffrey",
+      "Jeffrey",
+      "Jeffrey",
+      "just free",
+      "Jeffery",
+      "Geoffrey",
+      "just three",
+      "kill",
+      "don\u0027t",
+      "he\u0027ll see",
+      "Killswitch",
+      "he\u0027ll sleep",
+      "Hill Street",
+      "he\u0027ll sleep",
+      "203",
+      "Hill Street",
+      "he\u0027ll sleep",
+      "go to sleep",
+      "2 3",
+      "fantastic",
+      "fantastic"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "One, two, three!",
+    "transcripts": [
+      "123 123 123",
+      "1 2 3 1 2 3 1 2 3",
+      "1-2-3 1-2-3 1-2-3",
+      "do",
+      "just",
+      "Jeffrey",
+      "Jeffrey",
+      "Jeffrey",
+      "just free",
+      "Jeffery",
+      "Geoffrey",
+      "just three",
+      "kill",
+      "don\u0027t",
+      "he\u0027ll see",
+      "Killswitch",
+      "he\u0027ll sleep",
+      "Hill Street",
+      "he\u0027ll sleep",
+      "203",
+      "Hill Street",
+      "he\u0027ll sleep",
+      "go to sleep",
+      "2 3",
+      "fantastic",
+      "fantastic"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "We need a judge.",
+    "transcripts": [
+      "Judge",
+      "Judge",
+      "Drudge",
+      "George",
+      "Dodge"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s my dad\u0027s camera.",
+    "transcripts": [
+      "my",
+      "my",
+      "my dad",
+      "my Dad",
+      "my dad",
+      "my dad is my dad",
+      "my dad is my dad",
+      "my dad is my dad for Merle",
+      "my dad is my dad.",
+      "my dad is my dad or Merle",
+      "my dad is my dad armor off"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m good at dancing.",
+    "transcripts": [
+      "sing sing sing sing sing sing sing sing",
+      "sing sing sing sing sing sing sing",
+      "play sing sing sing sing sing sing sing",
+      "sing sing sing sing sing sing sing sing sing",
+      "sing a sing sing sing sing sing sing sing",
+      "10",
+      "dance",
+      "Benson",
+      "dancing",
+      "dancing",
+      "dancing dancing",
+      "dancing in Dirty Dancing",
+      "dancing dancing dancing",
+      "dancing under dancing",
+      "dancing dance dancing"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m good at dancing.",
+    "transcripts": [
+      "sing sing sing sing sing sing sing sing",
+      "sing sing sing sing sing sing sing",
+      "play sing sing sing sing sing sing sing",
+      "sing sing sing sing sing sing sing sing sing",
+      "sing a sing sing sing sing sing sing sing",
+      "10",
+      "dance",
+      "Benson",
+      "dancing",
+      "dancing",
+      "dancing dancing",
+      "dancing in Dirty Dancing",
+      "dancing dancing dancing",
+      "dancing under dancing",
+      "dancing dance dancing"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "That was really scary.",
+    "transcripts": [
+      "very very very",
+      "very very",
+      ". very very very",
+      "very scary",
+      "very very very very"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m watching a movie.",
+    "transcripts": [
+      "Mommy",
+      "Moby",
+      "movie",
+      "movie",
+      "Moby",
+      "Mobi",
+      "Mommy",
+      "muggy",
+      "weather"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Got you! You\u0027re it!",
+    "transcripts": [
+      "it",
+      "it",
+      "it",
+      "it\u0027d",
+      "is it",
+      "it it",
+      "it is",
+      "you\u0027re at",
+      "you\u0027re a",
+      "you\u0027re",
+      "you\u0027re it",
+      "you\u0027re",
+      "you\u0027re it",
+      "your it",
+      "your ex",
+      "norex",
+      "nor it",
+      "fantastic",
+      "fantastic work",
+      "fantastic"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Look at the mountain!",
+    "transcripts": [
+      "look",
+      "look",
+      "look",
+      "I look",
+      "look up",
+      "Esther",
+      "Esther",
+      "Ester",
+      "install",
+      "Aster"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Got you! I win!",
+    "transcripts": [
+      "when",
+      "wind",
+      "when",
+      "when",
+      "wind",
+      "win",
+      "Wynn"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Are you a pussycat?",
+    "transcripts": [
+      "all",
+      "trash can punch",
+      "trash can punch a",
+      "plushie plushtrap",
+      "all parts check",
+      "plushie plushtrap",
+      "all parts chest",
+      "all parts chat",
+      "all parts chess",
+      "trash can punch"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Thank you very much!",
+    "transcripts": [
+      "are you",
+      "areola",
+      "areola",
+      "areola",
+      "Ariella",
+      "Arreola",
+      "where are you"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m good at running.",
+    "transcripts": [
+      "I\u0027m",
+      "I\u0027m going",
+      "I\u0027m good",
+      "I\u0027m",
+      "I\u0027m good",
+      "I\u0027m good",
+      "I\u0027m good as",
+      "I\u0027m",
+      "I\u0027m good as awning",
+      "I\u0027m good as honey",
+      "I\u0027m go designing",
+      "I\u0027m good honey",
+      "I\u0027m good as money"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I just can\u0027t remember.",
+    "transcripts": [
+      "can",
+      "rainbow",
+      "Limbaugh",
+      "remember",
+      "lemon bar",
+      "lemon bar",
+      "mbar",
+      "Limbaugh",
+      "can lemon bar",
+      "lembar",
+      "can",
+      "cat",
+      "can\u0027t we",
+      "Patrick",
+      "Katrin",
+      "cat room",
+      "Katra my",
+      "can\u0027t remember",
+      "cat remind",
+      "can\u0027t remember"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m a bit full.",
+    "transcripts": [
+      "about",
+      "a back",
+      "a backflip",
+      "a back for",
+      "a",
+      "a back for",
+      "a back",
+      "a back fall",
+      "a back for",
+      "aback fall",
+      "a back for fall",
+      "a back four",
+      "are",
+      "about",
+      "a bad",
+      "about"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m a bit full.",
+    "transcripts": [
+      "about",
+      "a back",
+      "a backflip",
+      "a back for",
+      "a",
+      "a back for",
+      "a back",
+      "a back fall",
+      "a back for",
+      "aback fall",
+      "a back for fall",
+      "a back four",
+      "are",
+      "about",
+      "a bad",
+      "about"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m a bit full.",
+    "transcripts": [
+      "about",
+      "a back",
+      "a backflip",
+      "a back for",
+      "a",
+      "a back for",
+      "a back",
+      "a back fall",
+      "a back for",
+      "aback fall",
+      "a back for fall",
+      "a back four",
+      "are",
+      "about",
+      "a bad",
+      "about"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I didn\u0027t even run!",
+    "transcripts": [
+      "Eggman run",
+      "Eggman run",
+      "Ant-Man",
+      "Ant-Man run",
+      "Eggman run",
+      "Ant-Man runtime",
+      "Ant-Man want",
+      "amazing",
+      "amazing"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m watching a movie.",
+    "transcripts": [
+      "I",
+      "I\u0027m",
+      "I\u0027m a",
+      "I\u0027m",
+      "I\u0027m ashamed of",
+      "I\u0027m",
+      "I\u0027m ashamed of",
+      "I\u0027m ashamed of region",
+      "I\u0027m crocheting a region",
+      "I\u0027m crocheting a Regen",
+      "I will share a region",
+      "I\u0027m ashamed of legion",
+      "I\u0027m ashamed of region"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I hurt my hand.",
+    "transcripts": [
+      "hey",
+      "I have",
+      "I have",
+      "I have",
+      "I have a",
+      "I have.",
+      "I haven\u0027t",
+      "I have to"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I hurt my hand.",
+    "transcripts": [
+      "hey",
+      "I have",
+      "I have",
+      "I have",
+      "I have a",
+      "I have.",
+      "I haven\u0027t",
+      "I have to"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I hurt my hand.",
+    "transcripts": [
+      "hey",
+      "I have",
+      "I have",
+      "I have",
+      "I have a",
+      "I have.",
+      "I haven\u0027t",
+      "I have to"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Maybe someone else should drive.",
+    "transcripts": [
+      "real",
+      "real",
+      "Little Chute",
+      "real shooting",
+      "real all should try",
+      "real",
+      "real all should try",
+      "real should try",
+      "real elves should try",
+      "real all should try",
+      "Little Chute dry",
+      "real shoot dry",
+      "all",
+      "I\u0027ll",
+      "Elsa",
+      "El Super",
+      "Elsa 3",
+      "Elsa throne",
+      "how to draw",
+      "Elsa drawing",
+      "Elsa try",
+      "Elsa cry",
+      "Elsa drawing",
+      "Elsa try",
+      "Elsa cry",
+      "Elsa dry",
+      "I\u0027ll still try"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "One, two, three, four, five.",
+    "transcripts": [
+      "why",
+      "want",
+      "want to",
+      "wanted",
+      "1 2 3",
+      "1 2 3 4",
+      "1 2 3",
+      "1 2 3 4",
+      "1 2 3 4 5",
+      "1 2 3 4 5 1",
+      "1 2 3 4 5 1 2",
+      "1 2 3 4 5 1 2 1",
+      "1 2 3 4 5 1 2 1 1",
+      "1 2 3 4 5 1 2 1 1 1",
+      "1 2 3 4 5 1 2 1 1 1",
+      "1 2 3 4 5 1 2 2 1 1 1",
+      "1 2 3 4 5 1 2 111",
+      "1 2 3 4 5 1-2 111",
+      "1 2 3 4 5 1 1 2 1 1 1",
+      "why",
+      "one",
+      "1"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s run around the park.",
+    "transcripts": [
+      "play",
+      "product",
+      "Park",
+      "Park",
+      "product",
+      "Pollock",
+      "Pathak",
+      "Podrick"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s watch a funny movie.",
+    "transcripts": [
+      "movie",
+      "movie",
+      "movie",
+      "movies",
+      "the movie"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I wake up at six.",
+    "transcripts": [
+      "6",
+      "6",
+      "6",
+      "six",
+      "Styx",
+      "thanks",
+      "sticks",
+      "sick",
+      "6",
+      "6",
+      "606",
+      "6066",
+      "6066",
+      "6666",
+      "6666",
+      "six six six six six",
+      "six six six six six"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "When I was in first grade.",
+    "transcripts": [
+      "go",
+      "girls",
+      "go",
+      "girls",
+      "go",
+      "go for",
+      "go",
+      "go first",
+      "go first go",
+      "go first go",
+      "go first goal",
+      "goal first goal",
+      "girl\u0027s first goal",
+      "girls first goal"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s time to go and sleep.",
+    "transcripts": [
+      "show me",
+      "show me a",
+      "sleep",
+      "sleep",
+      "Philippe",
+      "show me a pic",
+      "Filipe"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s only a quarter past winter.",
+    "transcripts": [
+      "I\u0027ll call",
+      "I\u0027ll call you",
+      "I\u0027ll call.",
+      "I\u0027ll",
+      "I\u0027ll call.",
+      "all car car car",
+      "I\u0027ll call DARCARS",
+      "are Cara Cara",
+      "I\u0027ll call dark color",
+      "I\u0027ll call dark color",
+      "a car color",
+      "a cartoon character",
+      "I\u0027ll call car color",
+      "all car color",
+      "call",
+      "Connor",
+      "color",
+      "color",
+      "color",
+      "Connor",
+      "call Dora",
+      "color charts",
+      "Carter",
+      "I know",
+      "I need",
+      "I need a",
+      "99"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "smell",
+    "transcripts": [
+      "Mouse",
+      "mouth",
+      "mouth",
+      "Mouse",
+      "mouths",
+      "Mel",
+      "Maus"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "garden",
+    "transcripts": [
+      "I",
+      "I do",
+      "I don\u0027t",
+      "I didn\u0027t",
+      "I",
+      "ident",
+      "I didn\u0027t",
+      "ardent",
+      "I\u0027m done",
+      "I don\u0027t"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Birds lay eggs.",
+    "transcripts": [
+      "Eric Eric",
+      "egg egg",
+      "egg egg",
+      "egg egg egg",
+      "Eric Eric",
+      "egg egg egg egg",
+      "Eric Eric egg"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "when we first met",
+    "transcripts": [
+      "map map map",
+      "map map map",
+      "map map map map",
+      "map map",
+      "maps maps maps",
+      "wrong map map map",
+      "what is",
+      "what is the",
+      "what is yummy",
+      "what is that Lisa",
+      "what is Yummy Taco",
+      "what is",
+      "what is Yummy Taco"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s only a quarter past winter.",
+    "transcripts": [
+      "Pat",
+      "cat",
+      "at what",
+      "at what day",
+      "at what",
+      "cat wheelchair",
+      "hot water",
+      "cat wheelchair",
+      "at what day are we",
+      "at what age are you",
+      "cat wheelchair",
+      "cat wheelchair",
+      "Kat Wonder",
+      "at what day",
+      "cat wheelchair",
+      "cat litter",
+      "at what date"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "glue",
+    "transcripts": [
+      "love",
+      "learn",
+      "learn",
+      "Lund",
+      "LUN",
+      "learned"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Watch your head.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "shoes",
+    "transcripts": [
+      "yeah",
+      "you",
+      "use",
+      "you",
+      "you",
+      "use",
+      "U",
+      "yeah",
+      "Q",
+      "give",
+      "you",
+      "give"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Mommy Pig is reading her book.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Same time next Saturday?",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m allergic to it.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "game",
+    "transcripts": [
+      "yes",
+      "yay",
+      "yay",
+      "yay",
+      "ye",
+      "yay yay",
+      "yey",
+      "yeh"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "warm",
+    "transcripts": [
+      "00",
+      "oh oh",
+      "oh oh oh",
+      "o o",
+      "oh oh oh oh"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "duck",
+    "transcripts": [
+      "not",
+      ".",
+      ".",
+      "not",
+      "no.",
+      "knock knock",
+      "stop",
+      "stop"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "really fast",
+    "transcripts": [
+      "we are",
+      "we are we",
+      "we are",
+      "we are we",
+      "we are we",
+      "where are we",
+      "weary",
+      "we re",
+      "we are re"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "friends",
+    "transcripts": [
+      "down",
+      "dumb",
+      "dumb",
+      "down",
+      "gown",
+      "downtown",
+      "town"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s yours.",
+    "transcripts": [
+      "no",
+      "now",
+      "now",
+      "no",
+      "no no",
+      "not now"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s yours.",
+    "transcripts": [
+      "no",
+      "now",
+      "now",
+      "no",
+      "no no",
+      "not now"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "sneeze",
+    "transcripts": [
+      "knees knees knees",
+      "knees knees knees knees",
+      "knees knees please",
+      "knee knees knees knees",
+      "knees knees",
+      "Nick",
+      "Google"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "the queen",
+    "transcripts": [
+      "stop",
+      "top 10",
+      "top 10",
+      "top 10",
+      "top ten",
+      "10",
+      "top-10"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "boat",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I choose this one.",
+    "transcripts": [
+      "hi to",
+      "choo",
+      "HO2",
+      "HO2",
+      "choo choo",
+      "choo choo choo",
+      "choo choo",
+      "choo choo choo",
+      "choo choo choo choo",
+      "choo choo choo choo",
+      "choo choo choo choo choo",
+      "choo choo",
+      "choo choo choo choo choo choo",
+      "choo choo choo"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "fruit",
+    "transcripts": [
+      "the",
+      "the rain",
+      "the rain",
+      "the room",
+      "Lorraine",
+      "the weather"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s comfy.",
+    "transcripts": [
+      "it\u0027s",
+      "it\u0027s",
+      "Ethan eats",
+      "eats",
+      "Ethan it\u0027s"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "behind the curtain",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "There\u0027s a cloud!",
+    "transcripts": [
+      "aqua",
+      "aqua",
+      "Aquaman",
+      "Alcala",
+      "alkali"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "tease",
+    "transcripts": [
+      "Pig",
+      ".",
+      "hey",
+      "pigs"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "tease",
+    "transcripts": [
+      "Pig",
+      ".",
+      "hey",
+      "pigs"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "tease",
+    "transcripts": [
+      "Pig",
+      ".",
+      "hey",
+      "pigs"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "quickly",
+    "transcripts": [
+      "please",
+      "creeper",
+      "please turn",
+      "please turn it",
+      "please curly",
+      "creeper Mii",
+      "creeper Mii",
+      "please answer me",
+      "PLS near me",
+      "creeper me",
+      "creeper Lee"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "your turn",
+    "transcripts": [
+      "YouTube",
+      "YouTube",
+      "Yoda",
+      "Yokai",
+      "Utah"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m a clever parrot.",
+    "transcripts": [
+      "Iowa",
+      "Iowa",
+      "Ihop",
+      "I am",
+      "Iowa corn"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m a clever parrot.",
+    "transcripts": [
+      "Iowa",
+      "Iowa",
+      "Ihop",
+      "I am",
+      "Iowa corn"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "He\u0027s so strict.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "the clouds",
+    "transcripts": [
+      "100",
+      "100 pure",
+      "102",
+      "100k"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "April Fools\u0027 Day",
+    "transcripts": [
+      "first car",
+      "first car",
+      "awesomest car ever",
+      "first car",
+      "first car",
+      "first car",
+      "afro first car",
+      "Scarface",
+      "RC car"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "April Fools\u0027 Day",
+    "transcripts": [
+      "first car",
+      "first car",
+      "awesomest car ever",
+      "first car",
+      "first car",
+      "first car",
+      "afro first car",
+      "Scarface",
+      "RC car"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "smell",
+    "transcripts": [
+      "map",
+      "math",
+      "map",
+      "map",
+      "map",
+      "math",
+      "Maps",
+      "man"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "smell",
+    "transcripts": [
+      "map",
+      "math",
+      "map",
+      "map",
+      "map",
+      "math",
+      "Maps",
+      "man"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "smell",
+    "transcripts": [
+      "map",
+      "math",
+      "map",
+      "map",
+      "map",
+      "math",
+      "Maps",
+      "man"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "smell",
+    "transcripts": [
+      "map",
+      "math",
+      "map",
+      "map",
+      "map",
+      "math",
+      "Maps",
+      "man"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "smell",
+    "transcripts": [
+      "map",
+      "math",
+      "map",
+      "map",
+      "map",
+      "math",
+      "Maps",
+      "man"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s very snowy.",
+    "transcripts": [
+      "Let It Go from",
+      "Let It Go from only",
+      "Let It Go from only snowing",
+      "Let It Go from only snowing",
+      "Let It Go from only snowing a tsunami",
+      "Let It Go from only Salvation Army",
+      "Let It Go from only snowing in Raleigh",
+      "Let It Go from only snowing me a tsunami"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Thank you very much!",
+    "transcripts": [
+      "Angel Maddie",
+      "Angel Maddy",
+      "Angel Madi",
+      "Angel Mady",
+      "Angel Mandy"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "teach",
+    "transcripts": [
+      "Peach",
+      "each",
+      "Pete",
+      "Heat",
+      "awesome",
+      "awesome"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "movie",
+    "transcripts": [
+      "who was",
+      "who is",
+      "Who was the",
+      "full song",
+      ".",
+      "full song",
+      "cool song",
+      "school song",
+      "cool songs",
+      "school songs"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Missed it.",
+    "transcripts": [
+      "nice",
+      "near me",
+      "near me",
+      "near me",
+      "me me",
+      "nice",
+      "niece"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "some vegetables",
+    "transcripts": [
+      "stop",
+      "song",
+      "song that",
+      "song",
+      "song that you",
+      "song that is",
+      "song that you can",
+      "song",
+      "song",
+      "song that you couples",
+      "song that is couples",
+      "song that\u0027s a couples",
+      "song that says couples",
+      "song that couples",
+      "you",
+      "you are",
+      "you rock",
+      "you rock",
+      "uroc",
+      "you cry",
+      "Uriah",
+      "you wrong"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Missed it.",
+    "transcripts": [
+      "nest",
+      "nest",
+      "nest",
+      "mess",
+      "Neff",
+      "Ness",
+      "me"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Missed it.",
+    "transcripts": [
+      "nest",
+      "nest",
+      "nest",
+      "mess",
+      "Neff",
+      "Ness",
+      "me"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "We need to see for ourselves.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s eat.",
+    "transcripts": [
+      "last",
+      "last",
+      "laugh",
+      "last night",
+      "lad"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "sit",
+    "transcripts": [
+      "get",
+      "get",
+      "get",
+      "get it",
+      "get me",
+      "git",
+      "get out"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a cow.",
+    "transcripts": [
+      "kids",
+      "kids",
+      "Kids",
+      "Aku",
+      "Aku",
+      "Aku",
+      "all Caillou",
+      "akou",
+      "Aku Aku",
+      "kids all Caillou"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "tease",
+    "transcripts": [
+      "Pig",
+      "Pig",
+      "Pig",
+      "Pigg",
+      "pig pig"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s so small!",
+    "transcripts": [
+      "do",
+      "south",
+      "do some",
+      "Star Cinema",
+      "Star Cinema",
+      "dollar cinema",
+      "Dolph Ziggler",
+      "Dolphin Mall",
+      "dhalsim"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I don\u0027t feel very well.",
+    "transcripts": [
+      "what",
+      "watch",
+      "wow",
+      "wow",
+      "wow",
+      "wow wow",
+      "Wawa",
+      "wallop",
+      "wow wow wow"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "summer",
+    "transcripts": [
+      "oh my",
+      "Omer",
+      "oh my God",
+      "Omar",
+      "oh my"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Don\u0027t drink too quickly.",
+    "transcripts": [
+      "don\u0027t",
+      "don\u0027t",
+      "don\u0027t",
+      "don\u0027ts",
+      "I don\u0027t",
+      "do ants",
+      "do",
+      "don\u0027t",
+      "Dawn",
+      "Dawn",
+      "Dawn",
+      "Don",
+      "dong",
+      "daun",
+      "gone"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "warm",
+    "transcripts": [
+      "movie",
+      "Moon",
+      "movie",
+      "Moon",
+      "Moon",
+      "movie",
+      "movies",
+      "Mulan"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "fireman",
+    "transcripts": [
+      "I am",
+      "I am done",
+      "I am done",
+      "I am done",
+      "I am dumb",
+      "I am.",
+      "I am done."
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s study.",
+    "transcripts": [
+      "song",
+      "songs",
+      "Sunday",
+      "Sunday",
+      "Sunday",
+      "Ssundee",
+      "Sonic",
+      "Sandy",
+      "Sundee",
+      "zombie",
+      "Sunday",
+      "Sunday",
+      "Sunday",
+      "Ssundee",
+      "zombie",
+      "Sandy",
+      "Sandi"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "friends",
+    "transcripts": [
+      "Hindi medicine",
+      "Hindi Madison",
+      "hanging medicine",
+      "hanging Madison",
+      "Hangar Madison"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "quickly",
+    "transcripts": [
+      "play",
+      "free",
+      "Greek",
+      "freaky",
+      "Franklin",
+      "Breakers",
+      "Franklin",
+      "Franklin",
+      "Franklin",
+      "preclude",
+      "freaky",
+      "Breakers",
+      "recruit"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "quickly",
+    "transcripts": [
+      "play",
+      "play the",
+      "play some",
+      "play Thunder",
+      "play the music",
+      "play",
+      "play some music",
+      "play the music",
+      "play Thunder",
+      "play Thumbelina"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "game",
+    "transcripts": [
+      "scratch",
+      "scratch",
+      "brain",
+      "scrap brain",
+      "scrap brain",
+      "scratch brain",
+      "Scrat rain",
+      "brain",
+      "Scrat brain"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "game",
+    "transcripts": [
+      "scratch",
+      "scratch",
+      "brain",
+      "scrap brain",
+      "scrap brain",
+      "scratch brain",
+      "Scrat rain",
+      "brain",
+      "Scrat brain"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "game",
+    "transcripts": [
+      "scratch",
+      "scratch",
+      "brain",
+      "scrap brain",
+      "scrap brain",
+      "scratch brain",
+      "Scrat rain",
+      "brain",
+      "Scrat brain"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "vote",
+    "transcripts": [
+      "mulch Wild",
+      "mote wow",
+      "mulch",
+      "wow.",
+      "moat",
+      "Roach",
+      "stop",
+      "that was",
+      "that was real",
+      "that was really",
+      "that was",
+      "that was really"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s only a quarter past winter.",
+    "transcripts": [
+      "play",
+      "pause",
+      "card",
+      "card",
+      "cars for",
+      "card card",
+      "card card",
+      "cars Ford parts window",
+      "poured Ford parts window",
+      "card Ford parts window",
+      "card card at window",
+      "card card plus window"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "friends",
+    "transcripts": [
+      "run",
+      "where",
+      "when",
+      "read",
+      "run",
+      "what",
+      "wren",
+      "Ren",
+      "run",
+      "rennes"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s snowing.",
+    "transcripts": [
+      "show me",
+      "Noemi",
+      "Nomi",
+      "show me",
+      "know me",
+      "Naomi",
+      "Milan"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "slow",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "dark",
+    "transcripts": [
+      "stop",
+      ".",
+      "stop.",
+      ".",
+      "stop",
+      "no.",
+      ".",
+      "."
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s sleep.",
+    "transcripts": [
+      "Nick",
+      "Nick",
+      "lit",
+      "Knicks",
+      "live",
+      "Nick",
+      "Nick"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s over here!",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s over here!",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "My arm hurts.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "warm",
+    "transcripts": [
+      "mom mom",
+      "mom mom",
+      "mom mom",
+      "mom mom mom",
+      "mom-mom",
+      "mom mommy",
+      "mama"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "warm",
+    "transcripts": [
+      "mom mom",
+      "mom mom",
+      "mom mom",
+      "mom mom mom",
+      "mom-mom",
+      "mom mommy",
+      "mama"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "pears",
+    "transcripts": [
+      "TV",
+      ".",
+      "TV and",
+      "TV antenna",
+      "TV and radio",
+      "TV animes",
+      "TV",
+      "Eevee animation",
+      "TV animation",
+      "Siri animation",
+      "Kiri animation",
+      "Siri animations"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m very fast.",
+    "transcripts": [
+      "Max",
+      "Mad Max",
+      "Mad Max",
+      "Max",
+      "mad Macs",
+      "Mac\u0027s"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "release",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "swimming",
+    "transcripts": [
+      "the real",
+      "do English",
+      "the Ring Ring",
+      "wing wing",
+      "the wing wing",
+      "wing wing",
+      "the Ring Ring",
+      "ring ring",
+      "Doreen Lang"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "used",
+    "transcripts": [
+      "new new",
+      "mute mute",
+      "news news",
+      "new news",
+      "news",
+      "news news",
+      "mute news",
+      "new music",
+      "new",
+      "noon",
+      "noon",
+      "news",
+      "mute",
+      "new",
+      "yes"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s study.",
+    "transcripts": [
+      "let",
+      "let\u0027s",
+      "let\u0027s go",
+      "Let\u0027s Dance",
+      "Let\u0027s Dance",
+      "dad",
+      "let\u0027s go",
+      "Daddy"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Hurry.",
+    "transcripts": [
+      "free",
+      "free free free",
+      "free free free",
+      "free free",
+      "free free free free",
+      "333"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m soaked.",
+    "transcripts": [
+      "sword",
+      "sort",
+      "sort",
+      "sort",
+      "short",
+      "sword",
+      "spell sort",
+      "make",
+      "maze",
+      "Macy\u0027s",
+      "amazing",
+      "amazing",
+      "amazing",
+      "mazes",
+      "Macy\u0027s",
+      "mazing",
+      "maisel"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Don\u0027t eat too quickly.",
+    "transcripts": [
+      "YouTube + 322 + 3",
+      "YouTube + 32203",
+      "YouTube + 322",
+      "YouTube + 3/2 + 2 + 3",
+      "YouTube + 3 + 2 + 2 + 3",
+      "do",
+      "2",
+      "2 +",
+      "2:00",
+      "to plaka",
+      "to Pluckers",
+      "2 o clock me",
+      "2 + 3",
+      "2 + 3",
+      "2 o clock me every",
+      "2 + 303",
+      "2 + 303"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "too quickly",
+    "transcripts": [
+      "Jill cat 3203",
+      "Jill Katz 3203",
+      "hillcats 3203",
+      "joke at 3 to 3",
+      "Jill cat 323",
+      "Chris",
+      "cracker",
+      "Christmas",
+      "crackling",
+      "Chris Lane",
+      "Chris Lane",
+      "Chris Lane",
+      "wrestling",
+      "crackling",
+      "Christmas Lane",
+      "Cricket Lane",
+      "that\u0027s",
+      "that\u0027s the",
+      "that\u0027s been",
+      "that\u0027s better",
+      "Aspen",
+      "that\u0027s it",
+      "fastest",
+      "fastest way",
+      "fastest way to",
+      "fastest way to go",
+      "fastest",
+      "fastest way",
+      "fastest way to"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s scary.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "friends",
+    "transcripts": [
+      "ran",
+      "lands",
+      "Ran\u0027s",
+      "Ran\u0027s",
+      "Rands",
+      "ranz",
+      "rand\u0027s",
+      "Rams"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "friends",
+    "transcripts": [
+      "ran",
+      "lands",
+      "Ran\u0027s",
+      "Ran\u0027s",
+      "Rands",
+      "ranz",
+      "rand\u0027s",
+      "Rams"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I think you\u0027re hungry.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "warm",
+    "transcripts": [
+      "mom",
+      "mom",
+      "mam",
+      "mom mom",
+      "my mom",
+      "malm",
+      "more",
+      "more",
+      "mom",
+      "more"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I love trees.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "especially",
+    "transcripts": [
+      "best",
+      "Bachelor",
+      "bad Siri",
+      "bad Siri",
+      "bad Siri",
+      "best Siri",
+      "fast Fury",
+      "Siri",
+      "battery"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "old and dusty",
+    "transcripts": [
+      "South",
+      "dolphin",
+      "dolphin",
+      "Dallas game",
+      "dolphin",
+      "dolphin",
+      "Dallas game",
+      "dolphin game",
+      "South game",
+      "Dolphins game"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m going camping.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "full",
+    "transcripts": [
+      "or",
+      "or",
+      "or",
+      "horror",
+      "auror",
+      "oar",
+      "ore"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "dancing",
+    "transcripts": [
+      "is everything",
+      "is everything okay",
+      "is everything.",
+      "is Evans",
+      "is everything good"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "smell",
+    "transcripts": [
+      "no",
+      "no",
+      "no",
+      "no no",
+      "know",
+      "now",
+      "I know"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "smell",
+    "transcripts": [
+      "no",
+      "no",
+      "no",
+      "no no",
+      "know",
+      "now",
+      "I know"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s only half an hour away.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Go that way.",
+    "transcripts": [
+      "Superman Superman",
+      "Superman Superman.",
+      "Superman",
+      "super Superman",
+      "Superman Superman super"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Light is a very tricky thing to catch.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Light is a very tricky thing to catch.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Can I come in?",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "under the newspaper",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "ice skates",
+    "transcripts": [
+      "skate",
+      "games",
+      "games",
+      "skate",
+      "gate",
+      "Kate",
+      "gay"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "move",
+    "transcripts": [
+      "no",
+      "no",
+      "no",
+      "no no",
+      "nope",
+      "no no no"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "move",
+    "transcripts": [
+      "no",
+      "no",
+      "no",
+      "no no",
+      "nope",
+      "no no no"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "move",
+    "transcripts": [
+      "no",
+      "no",
+      "no",
+      "no no",
+      "nope",
+      "no no no"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I suppose that could work.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s tidy up.",
+    "transcripts": [
+      "play",
+      "Plus",
+      "flat",
+      "Lots",
+      "plats",
+      "plats",
+      "Flatts Tire",
+      "plats",
+      "Platts Heidi",
+      "Platts hiding",
+      "Platts Heidi",
+      "Platts hiding",
+      "Platts Heidi",
+      "Platts",
+      "Platts Heidi",
+      "Flats Heidi",
+      "Platts Heidi",
+      "plats Heidi",
+      "plats hiding",
+      "plaits hiding"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "difficult",
+    "transcripts": [
+      "music",
+      "Musical",
+      "Musical",
+      "music",
+      "musically",
+      "musicals"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Found it.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Found it.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m watching television.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s a rose.",
+    "transcripts": [
+      "Minecraft",
+      "Minecraft",
+      "Minecraft",
+      "Minecraft photos",
+      "Minecraft videos",
+      "Minecraft portals"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s easy.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Stop.",
+    "transcripts": [
+      "Magic.",
+      "Magic.",
+      "magic",
+      "Magic.",
+      "magic",
+      "92 top",
+      "magic tube top",
+      "Magic Tree Top",
+      "92.",
+      "Tree Top"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "story",
+    "transcripts": [
+      "Dorian",
+      "you\u0027re not",
+      "Dorian",
+      "you\u0027re not",
+      "Dory",
+      "dorime"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "grumpy",
+    "transcripts": [
+      "love",
+      "lung",
+      "lump",
+      "Lumpy",
+      "Lumpy",
+      "Lumpy",
+      "lumping",
+      "lumpi",
+      "Rumpke",
+      "a lumpy"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I like carrots, too.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s funny.",
+    "transcripts": [
+      "it\u0027s",
+      "if",
+      "it\u0027s on",
+      "if I\u0027m",
+      "it\u0027s on",
+      "Anna",
+      "if I mean",
+      "is Annie",
+      "is Mommy",
+      "Mommy",
+      "Mommy",
+      "is Mommy",
+      "Annie",
+      "it\u0027s on me",
+      "if Annie"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "With my friend.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "too quickly",
+    "transcripts": [
+      "Duke",
+      "do you get",
+      "do you like",
+      "do you write",
+      "do you like to",
+      "do you like me",
+      "do you like today",
+      "do you correctly",
+      "do you",
+      "do you correctly",
+      "do you like Polly",
+      "do you like poetry",
+      "how do you correctly",
+      "do you write 30",
+      "let\u0027s",
+      "Alexa",
+      "collection",
+      "collection",
+      "Lexington Park",
+      "Lexington Parkway",
+      "Lexington Parkway"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027ll clean the windows.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "There they are!",
+    "transcripts": [
+      "aha",
+      "aha",
+      "haha",
+      "hahaha",
+      "Ah-Ha",
+      "ah ha"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Really fast!",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I can see the bird.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Thank you, Mr. Farmer!",
+    "transcripts": [
+      "Anna Ono Ono",
+      "Ana Ono Ono",
+      "Anna Ono Ono Ono",
+      "Ana Ono Ono Ono",
+      "Anna Anna Anna"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Thank you, Mr. Farmer!",
+    "transcripts": [
+      "Anna Ono Ono",
+      "Ana Ono Ono",
+      "Anna Ono Ono Ono",
+      "Ana Ono Ono Ono",
+      "Anna Anna Anna"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Thank you, Mr. Farmer!",
+    "transcripts": [
+      "Anna Ono Ono",
+      "Ana Ono Ono",
+      "Anna Ono Ono Ono",
+      "Ana Ono Ono Ono",
+      "Anna Anna Anna"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "show",
+    "transcripts": [
+      "yeah",
+      "yo",
+      "yo",
+      "yo-yo",
+      "yo-yo",
+      "yo yo",
+      "yo yo yo",
+      "yo yo yo yo",
+      "yo",
+      "yo",
+      "yeah"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "show",
+    "transcripts": [
+      "yeah",
+      "yo",
+      "yo",
+      "yo-yo",
+      "yo-yo",
+      "yo yo",
+      "yo yo yo",
+      "yo yo yo yo",
+      "yo",
+      "yo",
+      "yeah"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Thank you, Mr. Farmer!",
+    "transcripts": [
+      "then",
+      "then go",
+      "Tengu",
+      "Tengu",
+      "Tengu",
+      "Tengu Mortimer",
+      "Tengu more",
+      "Tengu more armor",
+      "Tengu armor"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m a bit full.",
+    "transcripts": [
+      "baby",
+      "Bigfoot",
+      "8 Ball",
+      "State Farm",
+      "State Farm",
+      "State Farm",
+      "Faith Farm",
+      "Baker Farm",
+      "big farm",
+      "8 Ball"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s very snowy.",
+    "transcripts": [
+      "Apple",
+      "Apple",
+      "Apple",
+      "APA",
+      "Applebee\u0027s",
+      "apples"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Got you! I win!",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "my eyes",
+    "transcripts": [
+      "I",
+      "I",
+      "I",
+      "eye",
+      "I I",
+      "aye",
+      "hi"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "snore",
+    "transcripts": [
+      "the",
+      "then",
+      "the new",
+      "the new",
+      "the",
+      "the news",
+      "the",
+      "the new or",
+      "the new or",
+      "then no more",
+      "the new Thor",
+      "then the war",
+      "then the door"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "your turn",
+    "transcripts": [
+      "teacher",
+      "teachers",
+      "featured",
+      "teachers",
+      "teachers",
+      "featured",
+      "teacher",
+      "key card",
+      "p-card"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "My umbrella.",
+    "transcripts": [
+      "I\u0027m really",
+      "Umbreon",
+      "I\u0027m ready",
+      "Umbreon",
+      "Umbreon",
+      "I\u0027m ready.",
+      "I\u0027m ready",
+      "I\u0027m really"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m getting sleepy.",
+    "transcripts": [
+      "spooky",
+      "spooky",
+      "spooky",
+      "pookie",
+      "buche",
+      "Fuki",
+      "freaky"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It might snow.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "once upon a time",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s very cold.",
+    "transcripts": [
+      "eat",
+      "I",
+      "are",
+      "are you",
+      "are",
+      "are you",
+      "are",
+      "are white",
+      "AR",
+      "are",
+      "our"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s funny.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "sneeze",
+    "transcripts": [
+      "please",
+      "please",
+      "please",
+      "3",
+      "PLS",
+      "three"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s make a movie.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "green",
+    "transcripts": [
+      "3",
+      "when",
+      "friends",
+      "friends",
+      "Rin",
+      "wren",
+      "Ren",
+      "when"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "green",
+    "transcripts": [
+      "3",
+      "when",
+      "friends",
+      "friends",
+      "Rin",
+      "wren",
+      "Ren",
+      "when"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "green",
+    "transcripts": [
+      "3",
+      "when",
+      "friends",
+      "friends",
+      "Rin",
+      "wren",
+      "Ren",
+      "when"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "green",
+    "transcripts": [
+      "3",
+      "when",
+      "friends",
+      "friends",
+      "Rin",
+      "wren",
+      "Ren",
+      "when"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "chocolate cake",
+    "transcripts": [
+      "Jack",
+      "Jeff",
+      "Joker",
+      "Jack Ford",
+      "Jacqueline",
+      "Jack Ryan",
+      "Jacqueline",
+      "Jacqueline",
+      "Jack Wright",
+      "Jacqueline",
+      "Jack Ryan",
+      "Darkrai",
+      "Jack Frost"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "the queen",
+    "transcripts": [
+      "can",
+      "kids",
+      "kids",
+      "10",
+      "Kidz",
+      "heads"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Don\u0027t drink too quickly.",
+    "transcripts": [
+      "two kid curly Piccoli",
+      "to tickle a pickle",
+      "to tickle a tickly",
+      "two Kicker Lee Piccoli",
+      "to tickly pickles",
+      "two kid curly tickly",
+      "Pig",
+      "pick",
+      "picture",
+      "pickle",
+      "pictures",
+      "Pig clay",
+      "Pig clay",
+      "Pig clay",
+      "Piccoli",
+      "Pleakley",
+      "piccalilli",
+      "Pig play"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Don\u0027t eat too quickly.",
+    "transcripts": [
+      "222",
+      "2 2",
+      "to to",
+      "two two",
+      "2 to",
+      "it\u0027ll",
+      "it\u0027ll",
+      "YouTube",
+      "it\u0027ll be",
+      "it\u0027ll kill",
+      "it\u0027ll kick",
+      "it\u0027ll kicker",
+      "Little Kickers",
+      "it\u0027ll tickle",
+      "it\u0027ll kick early",
+      "it to Keuka Lake",
+      "it\u0027ll kick early",
+      "it to Keuka Lake",
+      "is it to Keuka Lake",
+      "Little Kickers",
+      "it\u0027ll kikkerland"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "tap",
+    "transcripts": [
+      "pop",
+      "pop",
+      "pop",
+      "Park",
+      "Pape",
+      "pops",
+      "pop"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Because it\u0027s the fastest ride in the world!",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m going abroad.",
+    "transcripts": [
+      "stock price stock price",
+      "stop by Price stock price",
+      "price stock price",
+      "Sabra stock price",
+      "stop price stock price",
+      "upper",
+      "a prayer",
+      "a price",
+      "a prize",
+      "a",
+      "apprised",
+      "a prize",
+      "surprise",
+      "a price",
+      "uprise",
+      "find",
+      "is it"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m playing soccer.",
+    "transcripts": [
+      "I\u0027m saying",
+      "I said",
+      "I said",
+      "I said",
+      "I\u0027m sad",
+      "I said.",
+      "I let",
+      "I said that"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "too quickly",
+    "transcripts": [
+      "to",
+      "to cut",
+      "do cats",
+      "cracker",
+      "to calculate",
+      "practically",
+      "to calculate",
+      "crackly",
+      "practically",
+      "to practically",
+      "to crackly",
+      "where",
+      "where you",
+      "where are you",
+      "way to go"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "knees",
+    "transcripts": [
+      "end",
+      "send",
+      "change",
+      "here end",
+      "please"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "seed",
+    "transcripts": [
+      "kid",
+      "kid kid",
+      "kid",
+      "kid kid",
+      "Kid to Kid",
+      "kid red",
+      "Kidd Kidd",
+      "kid dead"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "seed",
+    "transcripts": [
+      "kid",
+      "kid kid",
+      "kid",
+      "kid kid",
+      "Kid to Kid",
+      "kid red",
+      "Kidd Kidd",
+      "kid dead"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "That was really scary.",
+    "transcripts": [
+      "8:30",
+      "8:30",
+      "8:30 movie",
+      "8:30",
+      "830 movie",
+      "830",
+      "8:30 movies"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "That was really scary.",
+    "transcripts": [
+      "8:30",
+      "8:30",
+      "8:30 movie",
+      "8:30",
+      "830 movie",
+      "830",
+      "8:30 movies"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "glasses",
+    "transcripts": [
+      "Ross\u0027s",
+      "Rossi",
+      "Ross\u0027s",
+      "Rossi",
+      "Rossi",
+      "Rossi",
+      "Ross\u0027s",
+      "Rosses",
+      "losses",
+      "Roxy"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "glasses",
+    "transcripts": [
+      "Ross\u0027s",
+      "Rossi",
+      "Ross\u0027s",
+      "Rossi",
+      "Rossi",
+      "Rossi",
+      "Ross\u0027s",
+      "Rosses",
+      "losses",
+      "Roxy"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "My umbrella.",
+    "transcripts": [
+      "I\u0027m",
+      "Empire",
+      "Empire",
+      "umpire",
+      "I\u0027m",
+      "I\u0027m fine"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "My umbrella.",
+    "transcripts": [
+      "I\u0027m",
+      "Empire",
+      "Empire",
+      "umpire",
+      "I\u0027m",
+      "I\u0027m fine"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "the map",
+    "transcripts": [
+      "now now",
+      "now now",
+      "now now now",
+      "Mao Mao",
+      "now now now now",
+      "Mau Mau",
+      "my",
+      "Mom",
+      "mount",
+      "mount",
+      "Mom",
+      "Mouse",
+      "mouth"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "It\u0027s very high.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Yes, I got the red one.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "More grapes, please.",
+    "transcripts": [
+      "my",
+      "remind",
+      "reminder",
+      "mindless",
+      "Minecraft",
+      "Minecraft",
+      "Minecraft plays",
+      "Minecraft",
+      "Minecraft plays Ant-Man",
+      "Minecraft plates and mine",
+      "Minecraft place and mine",
+      "Minecraft plates and mind",
+      "Minecraft plays and mine",
+      "Minecraft plates and Mike"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I brought you this.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "tomorrow afternoon",
+    "transcripts": [
+      "Grand",
+      "Grant",
+      "Grandpa",
+      "gravity",
+      "Grand Theft",
+      "gravity",
+      "Grand Canyon",
+      "Greg can you",
+      "Greg can you",
+      "can you",
+      "Grand Canyon",
+      "Grant can you",
+      "Grand can you"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "outside",
+    "transcripts": [
+      "hi",
+      "hi",
+      "hi",
+      "High",
+      "hi hi",
+      "Hai"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Let\u0027s study.",
+    "transcripts": [
+      "play",
+      "sorry",
+      "play Charlie",
+      "sorry",
+      "sorry",
+      "Charlie",
+      "play Sorry",
+      "30",
+      "Saturday",
+      "call",
+      "call Elisa Engle",
+      "Alaska English"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "too quickly",
+    "transcripts": [
+      "Elite 3",
+      "Elite 3",
+      "Elite 3",
+      "poor people eat for free",
+      "replete for 3",
+      "replete",
+      "replete 3",
+      "play",
+      "put",
+      "Parker",
+      "where could I",
+      "play Korean"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "too quickly",
+    "transcripts": [
+      "listen",
+      "listen to",
+      "what do you",
+      "what do you mean",
+      "what do you mean",
+      "what do you mean",
+      "what do you think",
+      "Olympia",
+      "what\u0027s your name",
+      "where",
+      "wait",
+      "wake"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I\u0027m painting.",
+    "transcripts": [
+      "80",
+      "18",
+      "18",
+      "18",
+      "aten",
+      "ayton",
+      "Athan",
+      "Aton"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "flowers",
+    "transcripts": [
+      "no",
+      "now we",
+      "now we\u0027re",
+      "now lower",
+      "now",
+      "no words",
+      "no worse",
+      "no words",
+      "now words",
+      "no worse",
+      "Now worse",
+      "9 hours"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "I broke my tuba.",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "two or three days",
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "duck",
+    "transcripts": [
+      "No",
+      "Stop.",
+      "Stop.",
+      "No.",
+      "Stop.",
+      "No",
+      "Stop stop"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "teacher",
+    "transcripts": [
+      "PJ",
+      "picture",
+      "PJ",
+      "pictures",
+      "picture of",
+      "pictures",
+      "pager",
+      "picture",
+      "pictures",
+      "pigeon"
+    ],
+    "current": "S",
+    "expected": "F"
+  },
+  {
+    "answer": "Coming!",
+    "current": "S",
+    "expected": "F"
+  }
+]
