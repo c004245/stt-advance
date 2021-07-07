@@ -286,9 +286,7 @@ data class Word(val word: String) {
 
         val i = word.filter { it.isLetter() }.toLowerCase()
         val a = answer.word.filter { it.isLetter() }.toLowerCase()
-        Log.d("HWO", "============ try compared Transcript -> $i")
-        Log.d("HWO", "============ try compared answer -> $a")
-
+        Log.d("HWO", "============ try compared Transcript -> $i ==== answer  -> $a")
 
 
         /**
@@ -308,12 +306,12 @@ data class Word(val word: String) {
                         it.first == i.getOrNull(0)
                     }
                     .any {
-                        Log.d("HWO", "===== try any ! -> ${it.first} --- ${it.second}")
+                        Log.d("HWO", "===== charset -> ${it.first} --- ${it.second}")
                         //t == b h s g
                         //ten = can
                         // c -->
                         val isMatch = a.getOrNull(0) == it.second
-                        Log.d("HWO", "isMatch -> $isMatch")
+
                         isMatch
                     } ||
                 wordSets
@@ -431,19 +429,69 @@ class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
         return newWords
     }
 
+    private fun changeNumeric(words: String): List<Word> {
+        var strNumeric = Word("")
+        when (words) {
+            "0" -> {
+                strNumeric = Word("zero")
+            }
+            "1" -> {
+                strNumeric = Word("one")
+            }
+            "2" -> {
+                strNumeric = Word("two")
+            }
+            "3" -> {
+                strNumeric = Word("three")
+            }
+            "4" -> {
+                strNumeric = Word("four")
+            }
+            "5"-> {
+                strNumeric = Word("five")
+            }
+            "6" -> {
+                strNumeric = Word("six")
+            }
+            "7" -> {
+                strNumeric = Word("seven")
+            }
+            "8" -> {
+                strNumeric = Word("eight")
+            }
+            "9" -> {
+                strNumeric = Word("nine")
+            }
+            "10" -> {
+                strNumeric = Word("ten")
+            }
+            "11" -> {
+                strNumeric = Word("eleven")
+            }
+        }
+        return listOf(strNumeric)
+
+    }
     fun checkCorrectWordsCounts(inputSentences: List<String>, maxCount: Int?) {
 
         Log.d("HWO", "transcript List -> $inputSentences")
 //        for (inputSentence in inputSentences) {
 //        for (i in inputSentences.indices) {
         var index1 = 0
+        lateinit var newWords: List<Word>
 
         inputSentences.forEachIndexed { index, s ->
+            Log.d("HWO", "index state -> $index")
             val transcript = inputSentences[index1]
             Log.d("HWO", "========= inputSentences -> ${transcript}")
-//            val newWords = filterNewWords(transcript.splitAsWords())
-            val newWords = transcript.splitAsWords()
-            Log.d("HWO", "========= and try filterNewWord transcript -> ${transcript.splitAsWords()}")
+            Log.d("HWO", "========= inputSentences22 -> ${transcript.toIntOrNull()}")
+            newWords = if (transcript.toIntOrNull() != null) {
+                val integer = transcript.toIntOrNull()
+                changeNumeric(integer.toString().first().toString())
+            } else {
+                filterNewWords(transcript.splitAsWords())
+            }
+            Log.d("HWO", "========= and try filterNewWord transcript -> ${leftAnswers}")
             recognizedWordList.addAll(transcript.splitAsWords().map { it.word })
 
             if (maxCount != null) {
@@ -457,27 +505,53 @@ class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
             val cnt = run loop@{ // count matching inputs
                 leftAnswers?.foldIndexed(0) { answerIndex, acc, answer ->
 
-                    Log.d("HWO", "leftAnswer ====== $leftAnswers")
-                    Log.d("HWO", "answerIndex ====== $answerIndex")
-                    Log.d("HWO", "acc ====== $acc")
-                    Log.d("HWO", "answer ====== $answer")
+
+                    Log.d("HWO", "answerIndex111 ======  $answer")
+//                    Log.d("HWO", "acc ====== $acc")
+//                    Log.d("HWO", "answer ====== $answer")
 //                    val checkRange = 0..4 - difficultyLevel
 //                    Log.d("HWO", "checkRange -> $checkRange")
                     val isFinal = maxCount != null
+                    var isMatcher = false
 
-                    val new = newWords.getOrNull(answerIndex)
-                    Log.d("HWO", "new state -> $new")
+                    run loop2@ {
+                        newWords.forEachIndexed { index, word ->
+                            val newWord = newWords.getOrNull(index)
+                            val isMatch = if (maxCount != null) {
+                                newWord != null && answerIndex > -1 && newWord.isWordMatch(
+                                    answer, false, difficultyLevel
+                                )
+                            } else {
+                                newWord != null && answerIndex > -1 && newWord.isWordMatch(
+                                    answer, false, difficultyLevel
+                                )
+                            }
+                            Log.d("HWO", "answerIndex222 -> $isMatch")
 
-                    val isMatch = if (maxCount != null) {
-                        new != null && answerIndex > -1 && new.isWordMatch(
-                            answer, false, difficultyLevel
-                        )
-                    } else {
-                        new != null && answerIndex > -1 && new.isWordMatch(
-                            answer, false, difficultyLevel
-                        )
+                            if (isMatch) {
+                                Log.d("HWO", "Match !")
+                                isMatcher = true
+                                return@loop2
+
+                            }
+
+
+                        }
                     }
-                    Log.d("HWO", "is match -> $isMatch")
+
+
+//                    val new = newWords.getOrNull(answerIndex)
+//                    Log.d("HWO", "${newWords.size} === answer compare ====== $answer ===== new --> $new transcript -> $new")
+//
+//                    val isMatch = if (maxCount != null) {
+//                        new != null && answerIndex > -1 && new.isWordMatch(
+//                            answer, false, difficultyLevel
+//                        )
+//                    } else {
+//                        new != null && answerIndex > -1 && new.isWordMatch(
+//                            answer, false, difficultyLevel
+//                        )
+//                    }
 //                    val match = checkRange.any { offset ->
 //                        Log.d("HWO", "offset -> $answerIndex === $offset")
 //                        val index = answerIndex + offset
@@ -503,18 +577,23 @@ class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
 
                     //정답
 
-                    if (!isMatch) {
-                        if (new != null) {
+
+                    Log.d("HWO", "isMatcher -> $isMatcher")
+                    if (!isMatcher) {
+//                        if (newWords != null) {
                             index1++
-                        } else {
-                            index1 = 0
-                        }
+//                        } else {
+//                            index1
+//                        }
                         return@loop acc
                     }// count until first match fail happens
                     else {
+                        isMatcher = false
                         index1 = 0
-                        acc + 1
+                        return@loop acc +1
                     }
+                    Log.d("HWO", "index state222 -> $index1")
+
                 }
             } ?: 0
 
