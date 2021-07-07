@@ -434,12 +434,17 @@ class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
     fun checkCorrectWordsCounts(inputSentences: List<String>, maxCount: Int?) {
 
         Log.d("HWO", "transcript List -> $inputSentences")
-        for (inputSentence in inputSentences) {
-            Log.d("HWO", "========= inputSentences -> ${inputSentence}")
-            Log.d("HWO", "========= and try Split -> ${inputSentence.splitAsWords()}")
-            val newWords = filterNewWords(inputSentence.splitAsWords())
-            Log.d("HWO", "========= and try filterNewWord transcript -> $newWords")
-            recognizedWordList.addAll(newWords.map { it.word })
+//        for (inputSentence in inputSentences) {
+//        for (i in inputSentences.indices) {
+        var index1 = 0
+
+        inputSentences.forEachIndexed { index, s ->
+            val transcript = inputSentences[index1]
+            Log.d("HWO", "========= inputSentences -> ${transcript}")
+//            val newWords = filterNewWords(transcript.splitAsWords())
+            val newWords = transcript.splitAsWords()
+            Log.d("HWO", "========= and try filterNewWord transcript -> ${transcript.splitAsWords()}")
+            recognizedWordList.addAll(transcript.splitAsWords().map { it.word })
 
             if (maxCount != null) {
                 accumulatedMaxCount = if (accumulatedMaxCount + maxCount > answerWords.size) {
@@ -452,37 +457,64 @@ class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
             val cnt = run loop@{ // count matching inputs
                 leftAnswers?.foldIndexed(0) { answerIndex, acc, answer ->
 
-
-                    val checkRange = 0..4 - difficultyLevel
+                    Log.d("HWO", "leftAnswer ====== $leftAnswers")
+                    Log.d("HWO", "answerIndex ====== $answerIndex")
+                    Log.d("HWO", "acc ====== $acc")
+                    Log.d("HWO", "answer ====== $answer")
+//                    val checkRange = 0..4 - difficultyLevel
+//                    Log.d("HWO", "checkRange -> $checkRange")
                     val isFinal = maxCount != null
 
-                    val match = checkRange.any { offset ->
-                        val index = answerIndex + offset
-                        val new = newWords.getOrNull(index)
-                        val isMatch = if (maxCount != null) {
-                            Log.d("HWO", "========== try wordMatch -> $new ---- $answer")
-                            new != null && index > -1 && new.isWordMatch(
-                                answer,
-                                false,
-                                difficultyLevel
-                            )
-                        } else {
-                            new != null && index > -1 && new.isWordMatch(
-                                answer,
-                                false,
-                                difficultyLevel
-                            )
-                        }
+                    val new = newWords.getOrNull(answerIndex)
+                    Log.d("HWO", "new state -> $new")
 
-                        isMatch
+                    val isMatch = if (maxCount != null) {
+                        new != null && answerIndex > -1 && new.isWordMatch(
+                            answer, false, difficultyLevel
+                        )
+                    } else {
+                        new != null && answerIndex > -1 && new.isWordMatch(
+                            answer, false, difficultyLevel
+                        )
                     }
+                    Log.d("HWO", "is match -> $isMatch")
+//                    val match = checkRange.any { offset ->
+//                        Log.d("HWO", "offset -> $answerIndex === $offset")
+//                        val index = answerIndex + offset
+//                        Log.d("HWO", "new state -> $newWords --- $index")
+//                        val new = newWords.getOrNull(index)
+//                        val isMatch = if (maxCount != null) {
+//                            Log.d("HWO", "========== try wordMatch -> $new ---- $answer")
+//                            new != null && index > -1 && new.isWordMatch(
+//                                answer,
+//                                false,
+//                                difficultyLevel
+//                            )
+//                        } else {
+//                            new != null && index > -1 && new.isWordMatch(
+//                                answer,
+//                                false,
+//                                difficultyLevel
+//                            )
+//                        }
+//
+//                        isMatch
+//                    }
 
                     //정답
-                    Log.d("HWO", "match state --> $match")
 
-                    if (!match) return@loop acc // count until first match fail happens
-
-                    acc + 1
+                    if (!isMatch) {
+                        if (new != null) {
+                            index1++
+                        } else {
+                            index1 = 0
+                        }
+                        return@loop acc
+                    }// count until first match fail happens
+                    else {
+                        index1 = 0
+                        acc + 1
+                    }
                 }
             } ?: 0
 
@@ -511,7 +543,7 @@ class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
                 isCurrent = false
             }
 
-            lastRecognizedWords = inputSentence.splitAsWords()
+            lastRecognizedWords = transcript.splitAsWords()
         }
         Log.d("HWO", "FINIA")
         if (isCurrent) {

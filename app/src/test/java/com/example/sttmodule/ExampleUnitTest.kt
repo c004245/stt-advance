@@ -38,7 +38,7 @@ data class Person(
 )
 
 
-@RunWith(RobolectricTestRunner::class)
+//@RunWith(RobolectricTestRunner::class)
 class SttTest {
 
     lateinit var context: Context
@@ -78,43 +78,45 @@ class SttTest {
 
     //    val answer = "Six, seven, eight, nine, ten!\t"
 //    val answer = "That’s the reason."
-    val answer = "What if no one talks to me?"
+    val answer = "Let's play in the playground."
     val answerWords: List<Word> = answer.splitAsWords()
 
 
-    val jsonString = """
-[
-  {
-    "answer": "What if no one talks to me?",
-    "transcripts": [
-      "if no",
-      "if not",
-      "if not",
-      "",
-      "if not want",
-      "if not one",
-      "if",
-      "if not",
-      "if",
-      "if no one talks",
-      "if no one talks to",
-      "if",
-      "if",
-      "if no one",
-      "if no one talks",
-      "if no one talks to",
-      "what",
-      "what are",
-      "what if",
-      "what",
-      "he",
-      "he"
-    ],
-    "current": "F",
-    "expected": "S"
-  }
-  ]
-    """.trimIndent()
+//    val jsonString = """
+//[
+//  {
+//    "answer": "What if no one talks to me?",
+//    "transcripts": [
+//      "if no",
+//      "if not",
+//      "if not",
+//      "",
+//      "if not want",
+//      "if not one",
+//      "if",
+//      "if not",
+//      "if",
+//      "if no one talks",
+//      "if no one talks to",
+//      "if",
+//      "if",
+//      "if no one",
+//      "if no one talks",
+//      "if no one talks to",
+//      "what",
+//      "what are",
+//      "what if",
+//      "what",
+//      "he",
+//      "he"
+//    ],
+//    "current": "F",
+//    "expected": "S"
+//  }
+//  ]
+//    """.trimIndent()
+
+    val jsonString = "[{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\"let\\u0027s play\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":1446126445}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.01,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-1208838966},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\"best friend\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-251637194}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.01,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-340752769},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\"best friend.\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":780833960}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.01,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-1717315255},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\"best\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-1323811528}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.9,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-1375719771},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\"best friend.\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":780833960}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.9,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":1181452117},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\"best friend\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-251637194}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.9,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-1736952693},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\"best friend doctor and round\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":55021670}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.9,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":1507353851},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\" life\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-2039813872}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.01,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":532831889},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\" North Pole\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":1969561947}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.01,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-1588226336},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\" live play\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":1803795916}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.01,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-1455540707},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\" Life play a\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":2005122601}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.01,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":1175550550},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\" Life play in\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":2067360493}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.01,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-1573226934},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\" Life play in the\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":890502154}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.01,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":183710787},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\" Life play\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-1021038756}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.9,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-1155514247},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\" Life play in\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":2067360493}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.9,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":1325540438},{\"alternatives_\":[{\"bitField0_\":0,\"confidence_\":0.0,\"transcript_\":\" Life play in the\",\"words_\":[],\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":890502154}],\"bitField0_\":0,\"isFinal_\":false,\"stability_\":0.9,\"memoizedSerializedSize\":-1,\"unknownFields\":{\"count\":0,\"isMutable\":false,\"memoizedSerializedSize\":-1,\"objects\":[],\"tags\":[]},\"memoizedHashCode\":-1212489137}]"
 
     val jobject = JSONArray(jsonString)
 
@@ -124,26 +126,35 @@ class SttTest {
     @Before
     fun setup() {
         Log.d("HWO", "json -> $jobject")
-        val file = "assets/tc_s_to_f.json"
-
-       val test =  getInstrumentation().targetContext.resources.assets.open(file);
-
-        val jsonString = test.bufferedReader().use { it.readText() }
-//
-        Log.d("HWO", "json -> $jsonString")
-        val jObject = JSONObject(jsonString)
-//
-        for (i in 0 until jobject.length()) {
+        for (i in 0 until jobject.length() -1) {
             val result = jobject.getJSONObject(i)
+            val alternatives = result.getJSONArray("alternatives_")
 
-            val transcripts = result.getJSONArray("transcripts")
-            Log.d("HWO", "result -> $transcripts")
-
-            for (j in 0 until transcripts.length()) {
-                transcript.add(transcripts.getString(j))
+            for (j in 0 until alternatives.length()) {
+                val obj = alternatives.getJSONObject(j)
+                transcript.add(obj.getString("transcript_"))
             }
-
         }
+//        val file = "assets/tc_s_to_f.json"
+//
+//       val test =  getInstrumentation().targetContext.resources.assets.open(file);
+//
+//        val jsonString = test.bufferedReader().use { it.readText() }
+////
+//        Log.d("HWO", "json -> $jsonString")
+//        val jObject = JSONObject(jsonString)
+////
+//        for (i in 0 until jobject.length()) {
+//            val result = jobject.getJSONObject(i)
+//
+//            val transcripts = result.getJSONArray("transcripts")
+//            Log.d("HWO", "result -> $transcripts")
+//
+//            for (j in 0 until transcripts.length()) {
+//                transcript.add(transcripts.getString(j))
+//            }
+//
+//        }
     }
 
 //    )
