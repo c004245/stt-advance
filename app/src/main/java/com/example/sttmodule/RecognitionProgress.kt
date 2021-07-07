@@ -481,10 +481,8 @@ class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
         lateinit var newWords: List<Word>
 
         inputSentences.forEachIndexed { index, s ->
-            Log.d("HWO", "index state -> $index")
             val transcript = inputSentences[index1]
             Log.d("HWO", "========= inputSentences -> ${transcript}")
-            Log.d("HWO", "========= inputSentences22 -> ${transcript.toIntOrNull()}")
             newWords = if (transcript.toIntOrNull() != null) {
                 val integer = transcript.toIntOrNull()
                 changeNumeric(integer.toString().first().toString())
@@ -540,44 +538,6 @@ class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
                     }
 
 
-//                    val new = newWords.getOrNull(answerIndex)
-//                    Log.d("HWO", "${newWords.size} === answer compare ====== $answer ===== new --> $new transcript -> $new")
-//
-//                    val isMatch = if (maxCount != null) {
-//                        new != null && answerIndex > -1 && new.isWordMatch(
-//                            answer, false, difficultyLevel
-//                        )
-//                    } else {
-//                        new != null && answerIndex > -1 && new.isWordMatch(
-//                            answer, false, difficultyLevel
-//                        )
-//                    }
-//                    val match = checkRange.any { offset ->
-//                        Log.d("HWO", "offset -> $answerIndex === $offset")
-//                        val index = answerIndex + offset
-//                        Log.d("HWO", "new state -> $newWords --- $index")
-//                        val new = newWords.getOrNull(index)
-//                        val isMatch = if (maxCount != null) {
-//                            Log.d("HWO", "========== try wordMatch -> $new ---- $answer")
-//                            new != null && index > -1 && new.isWordMatch(
-//                                answer,
-//                                false,
-//                                difficultyLevel
-//                            )
-//                        } else {
-//                            new != null && index > -1 && new.isWordMatch(
-//                                answer,
-//                                false,
-//                                difficultyLevel
-//                            )
-//                        }
-//
-//                        isMatch
-//                    }
-
-                    //정답
-
-
                     Log.d("HWO", "isMatcher -> $isMatcher")
                     if (!isMatcher) {
 //                        if (newWords != null) {
@@ -585,12 +545,15 @@ class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
 //                        } else {
 //                            index1
 //                        }
+
                         return@loop acc
                     }// count until first match fail happens
                     else {
                         isMatcher = false
                         index1 = 0
+
                         return@loop acc +1
+//                        return@loop acc +1
                     }
                     Log.d("HWO", "index state222 -> $index1")
 
@@ -614,15 +577,16 @@ class RecognitionChecker(answer: String, private val difficultyLevel: Int) {
             }
 
 
-            if (answerCnt <= correctCnt) {
-                Log.d("HWO", "정답!")
-                isCurrent = true
-            } else {
-                Log.d("HWO", "틀림!")
-                isCurrent = false
-            }
+
 
             lastRecognizedWords = transcript.splitAsWords()
+        }
+        isCurrent = if (answerCnt <= correctCnt) {
+            Log.d("HWO", "정답!")
+            true
+        } else {
+            Log.d("HWO", "틀림!")
+            false
         }
         Log.d("HWO", "FINIA")
         if (isCurrent) {
